@@ -1,0 +1,5020 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: sh-shortcodes 1.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-10-06 12:51-0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Lee B <info@scripthat.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: js/mcev4/sc-window.php:67
+msgid "Choose Type"
+msgstr ""
+
+#: js/mcev4/sc-window.php:69
+msgid "One open at a time"
+msgstr ""
+
+#: js/mcev4/sc-window.php:70
+msgid "All open at a time"
+msgstr ""
+
+#: js/mcev4/sc-window.php:73
+msgid "Choose how many tabs"
+msgstr ""
+
+#: js/mcev4/sc-window.php:80
+msgid "Type sets if many or one tab can be open at a time.  Choose the number of tabs you\\'ll have ( you can always add more later ).  If you want one to be open on load just add <b>open=\"true\"</b> to the individual tab."
+msgstr ""
+
+#: js/mcev4/sc-window.php:83
+msgid "Set the anchor id"
+msgstr ""
+
+#: js/mcev4/sc-window.php:85
+#: core/vc-extend.php:370
+#: core/vc-extend.php:810
+#: core/vc-extend.php:1311
+#: core/vc-extend.php:1332
+#: core/vc-extend.php:1354
+#: core/vc-extend.php:1397
+#: core/vc-extend.php:1493
+#: core/vc-extend.php:2001
+#: core/vc-extend.php:2276
+msgid "Content"
+msgstr ""
+
+#: js/mcev4/sc-window.php:87
+msgid "Give your anchor a unique id, you can then create custom links to this id (e.g. <b>contactnow</b> custom link = http://mywebsite/#contactnow).  Leave content blank for hidden anchor."
+msgstr ""
+
+#: js/mcev4/sc-window.php:95
+msgid "Choose Animation"
+msgstr ""
+
+#: js/mcev4/sc-window.php:100
+msgid "Set the delay"
+msgstr ""
+
+#: js/mcev4/sc-window.php:103
+msgid "Choose an animation and set a delay (1000 = 1 second)"
+msgstr ""
+
+#: js/mcev4/sc-window.php:110
+#: js/mcev4/sc-window.php:130
+#: core/vc-extend.php:1007
+#: core/vc-extend.php:1049
+msgid "Items Per Row"
+msgstr ""
+
+#: js/mcev4/sc-window.php:118
+#: js/mcev4/sc-window.php:139
+msgid "Total Items To Show"
+msgstr ""
+
+#: js/mcev4/sc-window.php:125
+#: js/mcev4/sc-window.php:146
+#: core/vc-extend.php:1025
+#: core/vc-extend.php:1068
+msgid "Categories"
+msgstr ""
+
+#: js/mcev4/sc-window.php:127
+msgid "3 or 4 Items per row will look best, keep in mind this is for showing a small group of recent posts in other pages. If you want to show more or all use one of the blog templates.  Categories are seperated by commas."
+msgstr ""
+
+#: js/mcev4/sc-window.php:149
+msgid "Seperate categories with a comma (,) leave blank for all."
+msgstr ""
+
+#: js/mcev4/sc-window.php:161
+#: js/mcev4/sc-window.php:166
+#: js/mcev4/sc-window.php:3963
+msgid "Block Quote"
+msgstr ""
+
+#: js/mcev4/sc-window.php:163
+#: js/mcev4/sc-window.php:168
+msgid "Add Your Quote Text"
+msgstr ""
+
+#: js/mcev4/sc-window.php:171
+msgid "Quote Text"
+msgstr ""
+
+#: js/mcev4/sc-window.php:173
+msgid "Side to pull to"
+msgstr ""
+
+#: js/mcev4/sc-window.php:175
+#: core/vc-extend.php:1365
+msgid "Left Side"
+msgstr ""
+
+#: js/mcev4/sc-window.php:176
+#: core/vc-extend.php:1366
+msgid "Right Side"
+msgstr ""
+
+#: js/mcev4/sc-window.php:177
+#: core/vc-extend.php:1367
+msgid "Center"
+msgstr ""
+
+#: js/mcev4/sc-window.php:179
+msgid "Source"
+msgstr ""
+
+#: js/mcev4/sc-window.php:181
+msgid "Enter your text, choose a side to pull to and enter a source if wanted."
+msgstr ""
+
+#: js/mcev4/sc-window.php:184
+msgid "Letter to Dropcap"
+msgstr ""
+
+#: js/mcev4/sc-window.php:187
+msgid "Choose The Style"
+msgstr ""
+
+#: js/mcev4/sc-window.php:189
+#: core/vc-extend.php:1408
+msgid "Theme Accent Color"
+msgstr ""
+
+#: js/mcev4/sc-window.php:190
+msgid "Custom colors"
+msgstr ""
+
+#: js/mcev4/sc-window.php:194
+#: core/vc-extend.php:1415
+msgid "Choose Highlight"
+msgstr ""
+
+#: js/mcev4/sc-window.php:196
+msgid "Foreground Highlight"
+msgstr ""
+
+#: js/mcev4/sc-window.php:197
+#: core/vc-extend.php:1419
+msgid "Background Highlight"
+msgstr ""
+
+#: js/mcev4/sc-window.php:201
+msgid "Dropcap Font Color:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:206
+#: core/vc-extend.php:1440
+msgid "Set Background Color"
+msgstr ""
+
+#: js/mcev4/sc-window.php:208
+msgid "Set a background color"
+msgstr ""
+
+#: js/mcev4/sc-window.php:210
+#: core/vc-extend.php:1443
+msgid "Do not set a background color"
+msgstr ""
+
+#: js/mcev4/sc-window.php:214
+#: js/mcev4/sc-window.php:338
+#: js/mcev4/sc-window.php:959
+#: js/mcev4/sc-window.php:1031
+#: js/mcev4/sc-window.php:2594
+#: js/mcev4/sc-window.php:2667
+#: js/mcev4/sc-window.php:3176
+#: core/vc-extend.php:320
+msgid "Background Color:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:218
+msgid "Letter Dropshadow"
+msgstr ""
+
+#: js/mcev4/sc-window.php:220
+msgid "True - set a dropshadow on the letter"
+msgstr ""
+
+#: js/mcev4/sc-window.php:222
+msgid "False - Do not set a dropshadow"
+msgstr ""
+
+#: js/mcev4/sc-window.php:225
+msgid "Insert the letter you want to add the dropcap to and select your options."
+msgstr ""
+
+#: js/mcev4/sc-window.php:228
+#: core/vc-extend.php:1483
+msgid "Highlight Text"
+msgstr ""
+
+#: js/mcev4/sc-window.php:231
+#: core/vc-extend.php:1501
+msgid "Color"
+msgstr ""
+
+#: js/mcev4/sc-window.php:233
+msgid "Accent color"
+msgstr ""
+
+#: js/mcev4/sc-window.php:234
+msgid "Dark"
+msgstr ""
+
+#: js/mcev4/sc-window.php:235
+#: core/vc-extend.php:1506
+msgid "Yellow"
+msgstr ""
+
+#: js/mcev4/sc-window.php:236
+#: js/mcev4/sc-window.php:2585
+#: core/vc-extend.php:315
+#: core/vc-extend.php:1507
+msgid "Custom"
+msgstr ""
+
+#: js/mcev4/sc-window.php:239
+msgid "Foreground or Background"
+msgstr ""
+
+#: js/mcev4/sc-window.php:241
+#: core/vc-extend.php:1516
+msgid "Foreground"
+msgstr ""
+
+#: js/mcev4/sc-window.php:242
+#: core/vc-extend.php:766
+#: core/vc-extend.php:1517
+msgid "Background"
+msgstr ""
+
+#: js/mcev4/sc-window.php:246
+msgid "Highlight Font Color:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:251
+msgid "Highlight Background Color:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:255
+msgid "Add the text you would like to highlight with the theme accent color or a color of your choosing."
+msgstr ""
+
+#: js/mcev4/sc-window.php:258
+msgid "Image Style"
+msgstr ""
+
+#: js/mcev4/sc-window.php:260
+#: js/mcev4/sc-window.php:590
+#: js/mcev4/sc-window.php:704
+#: core/vc-extend.php:900
+msgid "Bordered"
+msgstr ""
+
+#: js/mcev4/sc-window.php:261
+#: core/vc-extend.php:1572
+msgid "Circle"
+msgstr ""
+
+#: js/mcev4/sc-window.php:262
+#: core/vc-extend.php:1573
+msgid "Circle with Shadow"
+msgstr ""
+
+#: js/mcev4/sc-window.php:263
+#: core/vc-extend.php:1574
+msgid "Shadowed"
+msgstr ""
+
+#: js/mcev4/sc-window.php:264
+#: core/vc-extend.php:1575
+msgid "Lifted"
+msgstr ""
+
+#: js/mcev4/sc-window.php:265
+#: core/vc-extend.php:1576
+msgid "Side Shadows"
+msgstr ""
+
+#: js/mcev4/sc-window.php:268
+#: core/vc-extend.php:465
+#: core/vc-extend.php:1582
+msgid "Border Size"
+msgstr ""
+
+#: js/mcev4/sc-window.php:275
+#: js/mcev4/sc-window.php:721
+#: js/mcev4/sc-window.php:911
+#: js/mcev4/sc-window.php:2319
+#: js/mcev4/sc-window.php:2604
+#: core/vc-extend.php:340
+#: core/vc-extend.php:1967
+msgid "Border Color:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:279
+#: js/mcev4/sc-window.php:343
+#: core/vc-extend.php:1596
+msgid "Padding"
+msgstr ""
+
+#: js/mcev4/sc-window.php:287
+#: js/mcev4/sc-window.php:1194
+#: js/mcev4/sc-window.php:2766
+#: js/mcev4/sc-window.php:3084
+msgid "Image URL"
+msgstr ""
+
+#: js/mcev4/sc-window.php:291
+#: js/mcev4/sc-window.php:293
+#: js/mcev4/sc-window.php:983
+#: js/mcev4/sc-window.php:985
+#: js/mcev4/sc-window.php:1041
+#: js/mcev4/sc-window.php:1043
+#: js/mcev4/sc-window.php:1198
+#: js/mcev4/sc-window.php:1200
+#: js/mcev4/sc-window.php:2770
+#: js/mcev4/sc-window.php:2771
+#: js/mcev4/sc-window.php:3088
+#: js/mcev4/sc-window.php:3089
+msgid "Choose Image"
+msgstr ""
+
+#: js/mcev4/sc-window.php:297
+#: core/vc-extend.php:1609
+msgid "Action"
+msgstr ""
+
+#: js/mcev4/sc-window.php:299
+#: js/mcev4/sc-window.php:633
+#: js/mcev4/sc-window.php:945
+#: js/mcev4/sc-window.php:972
+#: js/mcev4/sc-window.php:1013
+#: core/vc-extend.php:934
+#: core/vc-extend.php:1612
+#: core/vc-extend.php:2531
+#: core/vc-extend.php:2592
+msgid "None"
+msgstr ""
+
+#: js/mcev4/sc-window.php:300
+msgid "Open a new URL"
+msgstr ""
+
+#: js/mcev4/sc-window.php:301
+msgid "Open Image in Lightbox"
+msgstr ""
+
+#: js/mcev4/sc-window.php:305
+#: core/vc-extend.php:1620
+msgid "Hover Effect"
+msgstr ""
+
+#: js/mcev4/sc-window.php:307
+#: js/mcev4/sc-window.php:475
+#: js/mcev4/sc-window.php:684
+#: js/mcev4/sc-window.php:882
+#: js/mcev4/sc-window.php:1086
+#: js/mcev4/sc-window.php:1165
+#: js/mcev4/sc-window.php:1172
+#: js/mcev4/sc-window.php:1279
+#: js/mcev4/sc-window.php:1298
+#: js/mcev4/sc-window.php:2274
+#: js/mcev4/sc-window.php:2302
+#: js/mcev4/sc-window.php:2310
+#: js/mcev4/sc-window.php:2374
+#: js/mcev4/sc-window.php:2433
+#: js/mcev4/sc-window.php:2496
+#: js/mcev4/sc-window.php:2539
+#: js/mcev4/sc-window.php:2548
+#: js/mcev4/sc-window.php:2701
+#: js/mcev4/sc-window.php:2761
+#: js/mcev4/sc-window.php:2800
+#: js/mcev4/sc-window.php:2965
+#: core/vc-extend.php:247
+#: core/vc-extend.php:256
+#: core/vc-extend.php:532
+#: core/vc-extend.php:625
+#: core/vc-extend.php:705
+#: core/vc-extend.php:982
+#: core/vc-extend.php:1623
+#: core/vc-extend.php:1724
+#: core/vc-extend.php:1775
+#: core/vc-extend.php:1788
+#: core/vc-extend.php:1864
+#: core/vc-extend.php:1956
+#: core/vc-extend.php:2100
+#: core/vc-extend.php:2693
+#: core/vc-extend.php:2786
+#: core/vc-extend.php:3057
+#: core/vc-extend.php:3125
+#: core/vc-extend.php:3153
+#: core/vc-extend.php:3535
+#: core/vc-extend.php:3545
+#: core/vc-extend.php:3589
+msgid "Disable"
+msgstr ""
+
+#: js/mcev4/sc-window.php:308
+#: js/mcev4/sc-window.php:476
+#: js/mcev4/sc-window.php:682
+#: js/mcev4/sc-window.php:880
+#: js/mcev4/sc-window.php:1087
+#: js/mcev4/sc-window.php:1166
+#: js/mcev4/sc-window.php:1173
+#: js/mcev4/sc-window.php:1280
+#: js/mcev4/sc-window.php:1297
+#: js/mcev4/sc-window.php:2272
+#: js/mcev4/sc-window.php:2300
+#: js/mcev4/sc-window.php:2308
+#: js/mcev4/sc-window.php:2373
+#: js/mcev4/sc-window.php:2435
+#: js/mcev4/sc-window.php:2495
+#: js/mcev4/sc-window.php:2537
+#: js/mcev4/sc-window.php:2546
+#: js/mcev4/sc-window.php:2699
+#: js/mcev4/sc-window.php:2798
+#: js/mcev4/sc-window.php:2963
+#: core/vc-extend.php:246
+#: core/vc-extend.php:255
+#: core/vc-extend.php:531
+#: core/vc-extend.php:704
+#: core/vc-extend.php:983
+#: core/vc-extend.php:1624
+#: core/vc-extend.php:1723
+#: core/vc-extend.php:1774
+#: core/vc-extend.php:1787
+#: core/vc-extend.php:1955
+#: core/vc-extend.php:2101
+#: core/vc-extend.php:2694
+#: core/vc-extend.php:2787
+#: core/vc-extend.php:3058
+#: core/vc-extend.php:3126
+#: core/vc-extend.php:3152
+#: core/vc-extend.php:3536
+#: core/vc-extend.php:3546
+#: core/vc-extend.php:3590
+msgid "Enable"
+msgstr ""
+
+#: js/mcev4/sc-window.php:312
+#: js/mcev4/sc-window.php:1134
+#: js/mcev4/sc-window.php:1142
+#: js/mcev4/sc-window.php:1189
+#: js/mcev4/sc-window.php:2207
+#: js/mcev4/sc-window.php:2211
+#: js/mcev4/sc-window.php:2215
+#: core/vc-extend.php:203
+#: core/vc-extend.php:803
+#: core/vc-extend.php:1634
+#: core/vc-extend.php:2432
+#: core/vc-extend.php:2434
+#: core/vc-extend.php:2457
+#: core/vc-extend.php:2760
+#: core/vc-extend.php:2880
+#: core/vc-extend.php:3343
+#: core/vc-extend.php:3354
+#: core/create-shortcodes.php:2530
+#: core/create-shortcodes.php:2585
+msgid "Title"
+msgstr ""
+
+#: js/mcev4/sc-window.php:317
+#: core/vc-extend.php:1644
+msgid "Link URL"
+msgstr ""
+
+#: js/mcev4/sc-window.php:323
+#: js/mcev4/sc-window.php:948
+#: core/vc-extend.php:896
+#: core/vc-extend.php:1568
+#: core/vc-extend.php:2904
+msgid "Style"
+msgstr ""
+
+#: js/mcev4/sc-window.php:325
+#: core/vc-extend.php:2907
+msgid "Solid Bar"
+msgstr ""
+
+#: js/mcev4/sc-window.php:326
+#: core/vc-extend.php:2908
+msgid "Striped Bar"
+msgstr ""
+
+#: js/mcev4/sc-window.php:327
+#: core/vc-extend.php:2909
+msgid "Pulse Bar"
+msgstr ""
+
+#: js/mcev4/sc-window.php:331
+#: js/mcev4/sc-window.php:2952
+msgid "Bar Color:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:335
+#: js/mcev4/sc-window.php:594
+#: js/mcev4/sc-window.php:964
+#: js/mcev4/sc-window.php:1005
+#: js/mcev4/sc-window.php:1078
+msgid "Text Color:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:352
+msgid "Progress Text:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:356
+msgid "Progress Bar percent (e.g. 25):"
+msgstr ""
+
+#: js/mcev4/sc-window.php:360
+msgid "Progress symbol:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:372
+msgid "Click Insert"
+msgstr ""
+
+#: js/mcev4/sc-window.php:373
+msgid "This is useful for centering other shortcodes in your layout.  After creation, insert your shortcodes inside this container shortcode."
+msgstr ""
+
+#: js/mcev4/sc-window.php:377
+#: core/vc-extend.php:3851
+msgid "Name Field Text"
+msgstr ""
+
+#: js/mcev4/sc-window.php:379
+#: core/vc-extend.php:3853
+msgid "Your Name"
+msgstr ""
+
+#: js/mcev4/sc-window.php:382
+#: core/vc-extend.php:3858
+msgid "Email Field Text"
+msgstr ""
+
+#: js/mcev4/sc-window.php:384
+#: core/vc-extend.php:3860
+msgid "Your Email"
+msgstr ""
+
+#: js/mcev4/sc-window.php:387
+#: core/vc-extend.php:3865
+msgid "Message Field Text"
+msgstr ""
+
+#: js/mcev4/sc-window.php:389
+#: core/vc-extend.php:3867
+msgid "Enter Your Message"
+msgstr ""
+
+#: js/mcev4/sc-window.php:392
+#: core/vc-extend.php:3872
+msgid "Input Text Color"
+msgstr ""
+
+#: js/mcev4/sc-window.php:397
+#: core/vc-extend.php:3879
+msgid "Input Background Color"
+msgstr ""
+
+#: js/mcev4/sc-window.php:402
+#: core/vc-extend.php:3886
+msgid "Input Border Color"
+msgstr ""
+
+#: js/mcev4/sc-window.php:407
+#: core/vc-extend.php:2255
+#: core/vc-extend.php:3176
+#: core/vc-extend.php:3893
+msgid "Button Text"
+msgstr ""
+
+#: js/mcev4/sc-window.php:409
+msgid "Send Message"
+msgstr ""
+
+#: js/mcev4/sc-window.php:412
+#: core/vc-extend.php:580
+#: core/vc-extend.php:3900
+msgid "Button Background Color"
+msgstr ""
+
+#: js/mcev4/sc-window.php:419
+#: core/vc-extend.php:3206
+#: core/vc-extend.php:3907
+msgid "Button Text Color"
+msgstr ""
+
+#: js/mcev4/sc-window.php:424
+#: core/vc-extend.php:600
+#: core/vc-extend.php:3196
+#: core/vc-extend.php:3914
+msgid "Button Border Color"
+msgstr ""
+
+#: js/mcev4/sc-window.php:429
+#: core/vc-extend.php:3216
+#: core/vc-extend.php:3921
+msgid "Button Border Width"
+msgstr ""
+
+#: js/mcev4/sc-window.php:434
+msgid "Input and Buton Radius"
+msgstr ""
+
+#: js/mcev4/sc-window.php:439
+msgid "Send to other email?"
+msgstr ""
+
+#: js/mcev4/sc-window.php:443
+msgid "Border width and radius need to be in the format <b>2px</b> (size with px following).  Leave new email blank if you want this to go to the default admin email."
+msgstr ""
+
+#: js/mcev4/sc-window.php:450
+#: js/mcev4/sc-window.php:498
+#: core/vc-extend.php:1206
+msgid "Header Size"
+msgstr ""
+
+#: js/mcev4/sc-window.php:460
+#: core/vc-extend.php:1219
+msgid "Header Type"
+msgstr ""
+
+#: js/mcev4/sc-window.php:462
+#: core/vc-extend.php:1222
+msgid "Underlined"
+msgstr ""
+
+#: js/mcev4/sc-window.php:463
+msgid "boxed"
+msgstr ""
+
+#: js/mcev4/sc-window.php:466
+#: js/mcev4/sc-window.php:509
+#: core/vc-extend.php:1228
+msgid "Header Content"
+msgstr ""
+
+#: js/mcev4/sc-window.php:469
+#: core/vc-extend.php:1235
+msgid "Summary Below Header"
+msgstr ""
+
+#: js/mcev4/sc-window.php:473
+#: core/vc-extend.php:1255
+msgid "Change Header Color"
+msgstr ""
+
+#: js/mcev4/sc-window.php:479
+msgid "Header Bar Height"
+msgstr ""
+
+#: js/mcev4/sc-window.php:483
+msgid "Header Bar Width"
+msgstr ""
+
+#: js/mcev4/sc-window.php:488
+msgid "Header Bar Color:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:492
+msgid "Header Color:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:495
+msgid "Select the header size and input the content. Add a summary below if you like (note: content below header is ignored for boxed).  Change the default text color if you want."
+msgstr ""
+
+#: js/mcev4/sc-window.php:512
+msgid "Select the header size and input the content."
+msgstr ""
+
+#: js/mcev4/sc-window.php:516
+msgid "Year"
+msgstr ""
+
+#: js/mcev4/sc-window.php:523
+msgid "Month"
+msgstr ""
+
+#: js/mcev4/sc-window.php:525
+msgid "January"
+msgstr ""
+
+#: js/mcev4/sc-window.php:526
+msgid "February"
+msgstr ""
+
+#: js/mcev4/sc-window.php:527
+msgid "March"
+msgstr ""
+
+#: js/mcev4/sc-window.php:528
+msgid "April"
+msgstr ""
+
+#: js/mcev4/sc-window.php:529
+msgid "May"
+msgstr ""
+
+#: js/mcev4/sc-window.php:530
+msgid "June"
+msgstr ""
+
+#: js/mcev4/sc-window.php:531
+msgid "July"
+msgstr ""
+
+#: js/mcev4/sc-window.php:532
+msgid "August"
+msgstr ""
+
+#: js/mcev4/sc-window.php:533
+msgid "September"
+msgstr ""
+
+#: js/mcev4/sc-window.php:534
+msgid "October"
+msgstr ""
+
+#: js/mcev4/sc-window.php:535
+msgid "November"
+msgstr ""
+
+#: js/mcev4/sc-window.php:536
+msgid "December"
+msgstr ""
+
+#: js/mcev4/sc-window.php:539
+msgid "Day"
+msgstr ""
+
+#: js/mcev4/sc-window.php:545
+msgid "Time"
+msgstr ""
+
+#: js/mcev4/sc-window.php:546
+msgid "Hr:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:547
+msgid "12 AM"
+msgstr ""
+
+#: js/mcev4/sc-window.php:548
+msgid "1 AM"
+msgstr ""
+
+#: js/mcev4/sc-window.php:549
+msgid "2 AM"
+msgstr ""
+
+#: js/mcev4/sc-window.php:550
+msgid "3 AM"
+msgstr ""
+
+#: js/mcev4/sc-window.php:551
+msgid "4 AM"
+msgstr ""
+
+#: js/mcev4/sc-window.php:552
+msgid "5 AM"
+msgstr ""
+
+#: js/mcev4/sc-window.php:553
+msgid "6 AM"
+msgstr ""
+
+#: js/mcev4/sc-window.php:554
+msgid "7 AM"
+msgstr ""
+
+#: js/mcev4/sc-window.php:555
+msgid "8 AM"
+msgstr ""
+
+#: js/mcev4/sc-window.php:556
+msgid "9 AM"
+msgstr ""
+
+#: js/mcev4/sc-window.php:557
+msgid "10 AM"
+msgstr ""
+
+#: js/mcev4/sc-window.php:558
+msgid "11 AM"
+msgstr ""
+
+#: js/mcev4/sc-window.php:559
+msgid "12 PM"
+msgstr ""
+
+#: js/mcev4/sc-window.php:560
+msgid "1 PM"
+msgstr ""
+
+#: js/mcev4/sc-window.php:561
+msgid "2 PM"
+msgstr ""
+
+#: js/mcev4/sc-window.php:562
+msgid "3 PM"
+msgstr ""
+
+#: js/mcev4/sc-window.php:563
+msgid "4 PM"
+msgstr ""
+
+#: js/mcev4/sc-window.php:564
+msgid "5 PM"
+msgstr ""
+
+#: js/mcev4/sc-window.php:565
+msgid "6 PM"
+msgstr ""
+
+#: js/mcev4/sc-window.php:566
+msgid "7 PM"
+msgstr ""
+
+#: js/mcev4/sc-window.php:567
+msgid "8 PM"
+msgstr ""
+
+#: js/mcev4/sc-window.php:568
+msgid "9 PM"
+msgstr ""
+
+#: js/mcev4/sc-window.php:569
+msgid "10 PM"
+msgstr ""
+
+#: js/mcev4/sc-window.php:570
+msgid "11 PM"
+msgstr ""
+
+#: js/mcev4/sc-window.php:572
+msgid "Min:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:578
+msgid "Secs:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:587
+msgid "Style:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:589
+#: core/vc-extend.php:899
+msgid "Simple"
+msgstr ""
+
+#: js/mcev4/sc-window.php:591
+msgid "Background Tiles"
+msgstr ""
+
+#: js/mcev4/sc-window.php:596
+msgid "Set the date for the counter to expire, and set your color."
+msgstr ""
+
+#: js/mcev4/sc-window.php:599
+msgid "Google Doc Link"
+msgstr ""
+
+#: js/mcev4/sc-window.php:602
+#: core/vc-extend.php:3579
+#: core/vc-extend.php:3657
+msgid "Height"
+msgstr ""
+
+#: js/mcev4/sc-window.php:605
+#: core/vc-extend.php:3586
+msgid "Seamless display"
+msgstr ""
+
+#: js/mcev4/sc-window.php:607
+msgid "True (Do not show headers)"
+msgstr ""
+
+#: js/mcev4/sc-window.php:608
+msgid "False (Show document headers)"
+msgstr ""
+
+#: js/mcev4/sc-window.php:611
+msgid "Enter the url, set a height (e.g. 400), and choose how to display."
+msgstr ""
+
+#: js/mcev4/sc-window.php:615
+#: js/mcev4/sc-window.php:690
+#: js/mcev4/sc-window.php:932
+#: core/vc-extend.php:2179
+msgid "Number of Columns"
+msgstr ""
+
+#: js/mcev4/sc-window.php:622
+msgid "One Third"
+msgstr ""
+
+#: js/mcev4/sc-window.php:623
+msgid "Two Thirds"
+msgstr ""
+
+#: js/mcev4/sc-window.php:624
+msgid "One Quarter"
+msgstr ""
+
+#: js/mcev4/sc-window.php:625
+msgid "Three Quarters"
+msgstr ""
+
+#: js/mcev4/sc-window.php:626
+msgid "Middle Half"
+msgstr ""
+
+#: js/mcev4/sc-window.php:628
+msgid "Choose the number of columns to create."
+msgstr ""
+
+#: js/mcev4/sc-window.php:631
+#: core/vc-extend.php:931
+msgid "Divider Style"
+msgstr ""
+
+#: js/mcev4/sc-window.php:634
+#: core/vc-extend.php:935
+msgid "Single Line"
+msgstr ""
+
+#: js/mcev4/sc-window.php:635
+#: core/vc-extend.php:936
+msgid "Dashed Line"
+msgstr ""
+
+#: js/mcev4/sc-window.php:636
+#: core/vc-extend.php:937
+msgid "Dotted Line"
+msgstr ""
+
+#: js/mcev4/sc-window.php:637
+msgid "Double Lines"
+msgstr ""
+
+#: js/mcev4/sc-window.php:638
+#: core/vc-extend.php:939
+msgid "Double Dashed Lines"
+msgstr ""
+
+#: js/mcev4/sc-window.php:639
+#: core/vc-extend.php:940
+msgid "Double Dotted Lines"
+msgstr ""
+
+#: js/mcev4/sc-window.php:640
+msgid "Shadow Line"
+msgstr ""
+
+#: js/mcev4/sc-window.php:641
+msgid "Look Down"
+msgstr ""
+
+#: js/mcev4/sc-window.php:645
+msgid "Color:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:649
+msgid "Divider width"
+msgstr ""
+
+#: js/mcev4/sc-window.php:651
+msgid "Full Width"
+msgstr ""
+
+#: js/mcev4/sc-window.php:652
+#: core/vc-extend.php:962
+msgid "Short"
+msgstr ""
+
+#: js/mcev4/sc-window.php:655
+#: core/vc-extend.php:967
+msgid "Spacing Top"
+msgstr ""
+
+#: js/mcev4/sc-window.php:667
+#: core/vc-extend.php:973
+msgid "Spacing Bottom"
+msgstr ""
+
+#: js/mcev4/sc-window.php:679
+msgid "Enable Return to Top:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:687
+msgid "Choose the style of divider you would like, add the spacing size (for the top and bottom."
+msgstr ""
+
+#: js/mcev4/sc-window.php:697
+msgid "Number of Rows"
+msgstr ""
+
+#: js/mcev4/sc-window.php:706
+#: core/vc-extend.php:2310
+msgid "No Border"
+msgstr ""
+
+#: js/mcev4/sc-window.php:707
+msgid "Border"
+msgstr ""
+
+#: js/mcev4/sc-window.php:711
+msgid "Row Background Color:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:716
+msgid "Row Alternate Background Color:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:726
+msgid "Row Hover Color:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:730
+msgid "Choose the number of rows and columns you would like.  Select Border or no Border"
+msgstr ""
+
+#: js/mcev4/sc-window.php:733
+msgid "Full Address"
+msgstr ""
+
+#: js/mcev4/sc-window.php:736
+msgid "Add border to map:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:739
+#: js/mcev4/sc-window.php:747
+#: js/mcev4/sc-window.php:1106
+#: js/mcev4/sc-window.php:1113
+#: js/mcev4/sc-window.php:1120
+#: js/mcev4/sc-window.php:1127
+#: core/vc-extend.php:3303
+#: core/vc-extend.php:3313
+#: core/vc-extend.php:3323
+#: core/vc-extend.php:3333
+#: core/vc-extend.php:3685
+#: core/vc-extend.php:3695
+#: core/vc-extend.php:3705
+#: core/vc-extend.php:3715
+#: core/vc-extend.php:3744
+msgid "True"
+msgstr ""
+
+#: js/mcev4/sc-window.php:741
+#: js/mcev4/sc-window.php:749
+#: js/mcev4/sc-window.php:1107
+#: js/mcev4/sc-window.php:1114
+#: js/mcev4/sc-window.php:1121
+#: js/mcev4/sc-window.php:1128
+#: core/vc-extend.php:3304
+#: core/vc-extend.php:3314
+#: core/vc-extend.php:3324
+#: core/vc-extend.php:3334
+#: core/vc-extend.php:3686
+#: core/vc-extend.php:3696
+#: core/vc-extend.php:3706
+#: core/vc-extend.php:3716
+#: core/vc-extend.php:3743
+msgid "False"
+msgstr ""
+
+#: js/mcev4/sc-window.php:744
+msgid "Full Width Map:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:752
+msgid "Map Height"
+msgstr ""
+
+#: js/mcev4/sc-window.php:755
+msgid "Map Width"
+msgstr ""
+
+#: js/mcev4/sc-window.php:758
+msgid "Zoom Level"
+msgstr ""
+
+#: js/mcev4/sc-window.php:772
+#: core/vc-extend.php:3682
+msgid "Enable Zoom Control"
+msgstr ""
+
+#: js/mcev4/sc-window.php:774
+msgid "True - show zoom control"
+msgstr ""
+
+#: js/mcev4/sc-window.php:775
+msgid "False - Do not show zoom control"
+msgstr ""
+
+#: js/mcev4/sc-window.php:778
+#: core/vc-extend.php:3692
+msgid "Enable Pan Control"
+msgstr ""
+
+#: js/mcev4/sc-window.php:780
+msgid "True - show pan control"
+msgstr ""
+
+#: js/mcev4/sc-window.php:781
+msgid "False - Do not show pan control"
+msgstr ""
+
+#: js/mcev4/sc-window.php:784
+#: core/vc-extend.php:3702
+msgid "Enable Map Type Control"
+msgstr ""
+
+#: js/mcev4/sc-window.php:786
+msgid "True - show map type control"
+msgstr ""
+
+#: js/mcev4/sc-window.php:787
+msgid "False - Do not show map type control"
+msgstr ""
+
+#: js/mcev4/sc-window.php:790
+msgid "Enable ScrollWheel"
+msgstr ""
+
+#: js/mcev4/sc-window.php:792
+msgid "True - Mouse Zooms in/out"
+msgstr ""
+
+#: js/mcev4/sc-window.php:793
+msgid "False - No mouse zoom"
+msgstr ""
+
+#: js/mcev4/sc-window.php:797
+#: core/vc-extend.php:3722
+msgid "Map Type"
+msgstr ""
+
+#: js/mcev4/sc-window.php:799
+#: core/vc-extend.php:3725
+msgid "Roadmap"
+msgstr ""
+
+#: js/mcev4/sc-window.php:800
+#: core/vc-extend.php:3726
+msgid "Satellite"
+msgstr ""
+
+#: js/mcev4/sc-window.php:801
+#: core/vc-extend.php:3727
+msgid "Terrain"
+msgstr ""
+
+#: js/mcev4/sc-window.php:802
+#: core/vc-extend.php:3728
+msgid "Hybrid"
+msgstr ""
+
+#: js/mcev4/sc-window.php:807
+msgid "Marker URL"
+msgstr ""
+
+#: js/mcev4/sc-window.php:811
+#: js/mcev4/sc-window.php:813
+msgid "Choose Marker"
+msgstr ""
+
+#: js/mcev4/sc-window.php:816
+#: core/vc-extend.php:3740
+msgid "Change Map Color"
+msgstr ""
+
+#: js/mcev4/sc-window.php:818
+msgid "True - Use your own color"
+msgstr ""
+
+#: js/mcev4/sc-window.php:819
+msgid "False - Use default map color"
+msgstr ""
+
+#: js/mcev4/sc-window.php:823
+msgid "Map Color:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:828
+msgid "Map Saturation (-100 to 100):"
+msgstr ""
+
+#: js/mcev4/sc-window.php:833
+msgid "Map Lightness (-100 to 100):"
+msgstr ""
+
+#: js/mcev4/sc-window.php:838
+msgid "Infobox Content:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:840
+msgid "This is an infobox, delete text to hide"
+msgstr ""
+
+#: js/mcev4/sc-window.php:844
+msgid "Infobox Background:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:849
+msgid "Infobox Text Color:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:855
+#: js/mcev4/sc-window.php:916
+msgid "Placement:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:857
+#: js/mcev4/sc-window.php:918
+#: js/mcev4/sc-window.php:973
+#: js/mcev4/sc-window.php:1014
+#: js/mcev4/sc-window.php:3159
+#: core/vc-extend.php:2533
+#: core/vc-extend.php:2594
+#: core/vc-extend.php:2750
+#: core/vc-extend.php:2870
+#: core/vc-extend.php:3466
+msgid "Top"
+msgstr ""
+
+#: js/mcev4/sc-window.php:858
+#: js/mcev4/sc-window.php:919
+#: js/mcev4/sc-window.php:3162
+#: core/vc-extend.php:2751
+#: core/vc-extend.php:2871
+#: core/vc-extend.php:3468
+msgid "Left"
+msgstr ""
+
+#: js/mcev4/sc-window.php:859
+#: js/mcev4/sc-window.php:920
+#: js/mcev4/sc-window.php:3161
+#: core/vc-extend.php:2752
+#: core/vc-extend.php:2872
+#: core/vc-extend.php:3469
+msgid "Right"
+msgstr ""
+
+#: js/mcev4/sc-window.php:860
+#: js/mcev4/sc-window.php:921
+#: js/mcev4/sc-window.php:974
+#: js/mcev4/sc-window.php:1015
+#: js/mcev4/sc-window.php:3160
+#: core/vc-extend.php:2532
+#: core/vc-extend.php:2593
+#: core/vc-extend.php:3467
+msgid "Bottom"
+msgstr ""
+
+#: js/mcev4/sc-window.php:863
+#: js/mcev4/sc-window.php:924
+#: js/mcev4/sc-window.php:3044
+msgid "Title:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:865
+#: js/mcev4/sc-window.php:926
+msgid "The Title"
+msgstr ""
+
+#: js/mcev4/sc-window.php:867
+msgid "The Text:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:869
+msgid "The popover text"
+msgstr ""
+
+#: js/mcev4/sc-window.php:871
+msgid "Trigger:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:873
+#: core/vc-extend.php:2776
+msgid "Hover"
+msgstr ""
+
+#: js/mcev4/sc-window.php:874
+#: core/vc-extend.php:2777
+msgid "Click"
+msgstr ""
+
+#: js/mcev4/sc-window.php:877
+msgid "Change default colors:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:887
+msgid "Title Font Color:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:893
+msgid "Title Background Color:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:899
+msgid "Text Font Color:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:905
+msgid "Text Background Color:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:928
+msgid "Select the placement and set your title text."
+msgstr ""
+
+#: js/mcev4/sc-window.php:939
+msgid "Column To Highlight"
+msgstr ""
+
+#: js/mcev4/sc-window.php:950
+#: core/vc-extend.php:2198
+msgid "Colored Columns"
+msgstr ""
+
+#: js/mcev4/sc-window.php:951
+msgid "Light Columns"
+msgstr ""
+
+#: js/mcev4/sc-window.php:955
+msgid "Choose the number of columns first and then the column to Highlight."
+msgstr ""
+
+#: js/mcev4/sc-window.php:970
+#: js/mcev4/sc-window.php:1011
+msgid "Enable section top or bottom arrow"
+msgstr ""
+
+#: js/mcev4/sc-window.php:979
+#: js/mcev4/sc-window.php:1037
+msgid "Background Image URL"
+msgstr ""
+
+#: js/mcev4/sc-window.php:992
+msgid "Full or Repeat image"
+msgstr ""
+
+#: js/mcev4/sc-window.php:994
+#: core/vc-extend.php:2567
+msgid "Full / Cover"
+msgstr ""
+
+#: js/mcev4/sc-window.php:995
+msgid "Repeat Image"
+msgstr ""
+
+#: js/mcev4/sc-window.php:1000
+#: js/mcev4/sc-window.php:1048
+msgid "Overlay Color:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:1022
+#: core/vc-extend.php:2618
+msgid "Choose section background"
+msgstr ""
+
+#: js/mcev4/sc-window.php:1024
+#: core/vc-extend.php:2622
+msgid "Solid Color"
+msgstr ""
+
+#: js/mcev4/sc-window.php:1025
+#: core/vc-extend.php:2607
+#: core/vc-extend.php:2623
+msgid "Parallax"
+msgstr ""
+
+#: js/mcev4/sc-window.php:1026
+#: core/vc-extend.php:2624
+msgid "Fixed"
+msgstr ""
+
+#: js/mcev4/sc-window.php:1027
+#: js/mcev4/sc-window.php:4120
+#: core/vc-extend.php:2625
+#: core/vc-extend.php:3250
+msgid "Video"
+msgstr ""
+
+#: js/mcev4/sc-window.php:1054
+#: core/vc-extend.php:2652
+msgid "Background Video URL MP4"
+msgstr ""
+
+#: js/mcev4/sc-window.php:1060
+#: js/mcev4/sc-window.php:1062
+msgid "Choose MP4 Video"
+msgstr ""
+
+#: js/mcev4/sc-window.php:1066
+#: core/vc-extend.php:2662
+msgid "Background Video URL WEBM"
+msgstr ""
+
+#: js/mcev4/sc-window.php:1072
+#: js/mcev4/sc-window.php:1074
+msgid "Choose WEBM Video"
+msgstr ""
+
+#: js/mcev4/sc-window.php:1084
+msgid "Enable section bottom shadow"
+msgstr ""
+
+#: js/mcev4/sc-window.php:1091
+msgid "Choose solid background, Parallax, Fixed background or Video. If video is selected, the background image will be the fallback for devices that do not play video.  Use mp4 for video and add optional webm format to extend browser support."
+msgstr ""
+
+#: js/mcev4/sc-window.php:1095
+msgid "The PostID"
+msgstr ""
+
+#: js/mcev4/sc-window.php:1100
+msgid "The Custom Post ID for the Person (Can be found in the page edit url when creating People and looks like <b>post=1524</b>.  You just need the number."
+msgstr ""
+
+#: js/mcev4/sc-window.php:1104
+#: core/vc-extend.php:3299
+msgid "Show Pages"
+msgstr ""
+
+#: js/mcev4/sc-window.php:1111
+#: core/vc-extend.php:3309
+msgid "Show Posts"
+msgstr ""
+
+#: js/mcev4/sc-window.php:1118
+#: core/vc-extend.php:3319
+msgid "Show Custom Posts"
+msgstr ""
+
+#: js/mcev4/sc-window.php:1125
+#: core/vc-extend.php:3329
+msgid "Show Select Choices"
+msgstr ""
+
+#: js/mcev4/sc-window.php:1132
+msgid "Page - default view"
+msgstr ""
+
+#: js/mcev4/sc-window.php:1135
+#: js/mcev4/sc-window.php:1143
+#: core/vc-extend.php:3344
+#: core/vc-extend.php:3355
+#: core/create-shortcodes.php:2532
+#: core/create-shortcodes.php:2587
+msgid "Date"
+msgstr ""
+
+#: js/mcev4/sc-window.php:1136
+#: js/mcev4/sc-window.php:1144
+#: core/vc-extend.php:3345
+#: core/vc-extend.php:3356
+#: core/create-shortcodes.php:2534
+#: core/create-shortcodes.php:2589
+msgid "Author"
+msgstr ""
+
+#: js/mcev4/sc-window.php:1140
+msgid "Posts - default view"
+msgstr ""
+
+#: js/mcev4/sc-window.php:1145
+#: core/vc-extend.php:3357
+#: core/create-shortcodes.php:2591
+msgid "Category"
+msgstr ""
+
+#: js/mcev4/sc-window.php:1148
+msgid "Exclude ID list (e.g 1,5,7)"
+msgstr ""
+
+#: js/mcev4/sc-window.php:1153
+msgid "Select what to show, default sorting options, and exclude list if wanted.  Note: Excluded items are by id seperated by commas ( 5,3,24,15)."
+msgstr ""
+
+#: js/mcev4/sc-window.php:1158
+#: core/vc-extend.php:3525
+msgid "SoundCloud url"
+msgstr ""
+
+#: js/mcev4/sc-window.php:1163
+msgid "Auto Play clip"
+msgstr ""
+
+#: js/mcev4/sc-window.php:1170
+#: core/vc-extend.php:3542
+msgid "Show Comments"
+msgstr ""
+
+#: js/mcev4/sc-window.php:1176
+#: core/vc-extend.php:3552
+msgid "Set Color"
+msgstr ""
+
+#: js/mcev4/sc-window.php:1180
+msgid "Color changes the play button and sound bars, autoplay will cause the clip to start playing when the page loads."
+msgstr ""
+
+#: js/mcev4/sc-window.php:1184
+#: js/mcev4/sc-window.php:2206
+#: js/mcev4/sc-window.php:2210
+#: js/mcev4/sc-window.php:2214
+#: core/vc-extend.php:2432
+#: core/vc-extend.php:2434
+#: core/vc-extend.php:2450
+#: core/create-shortcodes.php:2958
+msgid "Name"
+msgstr ""
+
+#: js/mcev4/sc-window.php:1204
+#: js/mcev4/sc-window.php:2207
+#: js/mcev4/sc-window.php:2211
+#: js/mcev4/sc-window.php:2215
+#: core/vc-extend.php:2469
+msgid "The Testimonial"
+msgstr ""
+
+#: js/mcev4/sc-window.php:1207
+#: js/mcev4/sc-window.php:2512
+#: core/vc-extend.php:483
+#: core/vc-extend.php:906
+#: core/vc-extend.php:1765
+#: core/vc-extend.php:2475
+#: core/vc-extend.php:2520
+#: core/vc-extend.php:2581
+msgid "Font Color"
+msgstr ""
+
+#: js/mcev4/sc-window.php:1211
+#: core/vc-extend.php:477
+#: core/vc-extend.php:2482
+#: core/vc-extend.php:2513
+#: core/vc-extend.php:2631
+#: core/vc-extend.php:2928
+msgid "Background Color"
+msgstr ""
+
+#: js/mcev4/sc-window.php:1215
+#: core/vc-extend.php:459
+#: core/vc-extend.php:1589
+#: core/vc-extend.php:1803
+#: core/vc-extend.php:2329
+#: core/vc-extend.php:2489
+#: core/vc-extend.php:2837
+msgid "Border Color"
+msgstr ""
+
+#: js/mcev4/sc-window.php:1220
+msgid "Image and title are optional"
+msgstr ""
+
+#: js/mcev4/sc-window.php:1224
+msgid "Pause Per Slide (e.g. 5000)"
+msgstr ""
+
+#: js/mcev4/sc-window.php:1229
+#: core/vc-extend.php:2411
+msgid "Slide Transition"
+msgstr ""
+
+#: js/mcev4/sc-window.php:1231
+#: core/vc-extend.php:2414
+msgid "Fade To Next"
+msgstr ""
+
+#: js/mcev4/sc-window.php:1232
+#: core/vc-extend.php:2415
+msgid "Horizontal Slide"
+msgstr ""
+
+#: js/mcev4/sc-window.php:1233
+#: core/vc-extend.php:2416
+msgid "Vertical Slide"
+msgstr ""
+
+#: js/mcev4/sc-window.php:1237
+msgid "Slideshow Adapt Per Slide"
+msgstr ""
+
+#: js/mcev4/sc-window.php:1239
+#: core/vc-extend.php:2425
+msgid "True - Slide show changes height"
+msgstr ""
+
+#: js/mcev4/sc-window.php:1240
+msgid "False - Slide show same height"
+msgstr ""
+
+#: js/mcev4/sc-window.php:1244
+msgid "Slideshow Adapt means the slideshow will grow and shrink with each slide."
+msgstr ""
+
+#: js/mcev4/sc-window.php:1249
+msgid "Choose the type of video"
+msgstr ""
+
+#: js/mcev4/sc-window.php:1251
+#: core/vc-extend.php:3262
+msgid "Vimeo"
+msgstr ""
+
+#: js/mcev4/sc-window.php:1252
+#: core/vc-extend.php:3263
+msgid "Youtube"
+msgstr ""
+
+#: js/mcev4/sc-window.php:1253
+#: core/vc-extend.php:3264
+msgid "Self Hosted"
+msgstr ""
+
+#: js/mcev4/sc-window.php:1256
+msgid "Video ID:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:1260
+msgid "Poster Image URL:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:1265
+msgid "Select Vimeo or Youtube and add the id of the video only.  Self Hosted - Add the full url and a poster image if wanted."
+msgstr ""
+
+#: js/mcev4/sc-window.php:1277
+msgid "Open Modal On Page Load"
+msgstr ""
+
+#: js/mcev4/sc-window.php:1283
+msgid "Modal Title:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:1288
+#: core/vc-extend.php:3139
+msgid "Modal Size"
+msgstr ""
+
+#: js/mcev4/sc-window.php:1290
+#: js/mcev4/sc-window.php:2474
+#: js/mcev4/sc-window.php:2893
+#: js/mcev4/sc-window.php:3148
+#: core/vc-extend.php:1177
+#: core/vc-extend.php:1925
+#: core/vc-extend.php:3142
+#: core/vc-extend.php:3448
+msgid "Small"
+msgstr ""
+
+#: js/mcev4/sc-window.php:1291
+#: js/mcev4/sc-window.php:2476
+#: js/mcev4/sc-window.php:2895
+#: js/mcev4/sc-window.php:3150
+#: core/vc-extend.php:1179
+#: core/vc-extend.php:1927
+#: core/vc-extend.php:3143
+#: core/vc-extend.php:3450
+msgid "Large"
+msgstr ""
+
+#: js/mcev4/sc-window.php:1295
+#: core/vc-extend.php:3149
+msgid "Enable Footer"
+msgstr ""
+
+#: js/mcev4/sc-window.php:1301
+msgid "Modal Background Color:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:1305
+msgid "Modal Border Color:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:1309
+msgid "Modal Font Color:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:1314
+#: js/mcev4/sc-window.php:2421
+#: js/mcev4/sc-window.php:2705
+#: core/vc-extend.php:538
+#: core/vc-extend.php:1840
+msgid "Button Text:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:1318
+#: js/mcev4/sc-window.php:2500
+#: core/vc-extend.php:1961
+msgid "Button Color:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:1322
+msgid "Button Border Color:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:1326
+msgid "Button Text Color:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:1330
+msgid "Button Border Width:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:1334
+msgid "Button Border Radius:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:1392
+#: js/mcev4/sc-window.php:1397
+msgid "Enter Tab content here"
+msgstr ""
+
+#: js/mcev4/sc-window.php:1441
+msgid "Add Your Content"
+msgstr ""
+
+#: js/mcev4/sc-window.php:1759
+msgid "Checklist Item, enter your text."
+msgstr ""
+
+#: js/mcev4/sc-window.php:1937
+#: core/vc-extend.php:3240
+msgid "Your Modal Content"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2020
+#: js/mcev4/sc-window.php:2023
+msgid "Add Address for this marker or remove"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2042
+msgid "Head"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2051
+msgid "Data"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2079
+msgid "Enter Your Content For the popover"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2086
+msgid "Enter your content for the tooltip"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2099
+msgid "Column"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2102
+#: js/mcev4/sc-window.php:2103
+#: js/mcev4/sc-window.php:2104
+#: js/mcev4/sc-window.php:2105
+msgid "Column Data"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2118
+#: js/mcev4/sc-window.php:2130
+#: js/mcev4/sc-window.php:2158
+msgid "Enter your section content here."
+msgstr ""
+
+#: js/mcev4/sc-window.php:2227
+msgid "Please select a Shortcode."
+msgstr ""
+
+#: js/mcev4/sc-window.php:2244
+#: js/mcev4/sc-window.php:2346
+#: js/mcev4/sc-window.php:2446
+#: js/mcev4/sc-window.php:2552
+#: js/mcev4/sc-window.php:2779
+#: js/mcev4/sc-window.php:2850
+#: js/mcev4/sc-window.php:2972
+#: js/mcev4/sc-window.php:3057
+#: js/mcev4/sc-window.php:3110
+msgid "Choose Icon Set:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2247
+#: js/mcev4/sc-window.php:2349
+#: js/mcev4/sc-window.php:2449
+#: js/mcev4/sc-window.php:2555
+#: js/mcev4/sc-window.php:2782
+#: js/mcev4/sc-window.php:2853
+#: js/mcev4/sc-window.php:2975
+#: js/mcev4/sc-window.php:3060
+#: js/mcev4/sc-window.php:3113
+msgid "Font Awesome Icons"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2251
+#: js/mcev4/sc-window.php:2353
+#: js/mcev4/sc-window.php:2453
+#: js/mcev4/sc-window.php:2559
+#: js/mcev4/sc-window.php:2786
+#: js/mcev4/sc-window.php:2857
+#: js/mcev4/sc-window.php:2979
+#: js/mcev4/sc-window.php:3064
+#: js/mcev4/sc-window.php:3117
+#: core/vc-extend.php:272
+#: core/vc-extend.php:667
+#: core/vc-extend.php:829
+#: core/vc-extend.php:1120
+#: core/vc-extend.php:1689
+#: core/vc-extend.php:1889
+#: core/vc-extend.php:2064
+#: core/vc-extend.php:3077
+#: core/vc-extend.php:3399
+msgid "Linear Icons"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2255
+#: js/mcev4/sc-window.php:2357
+#: js/mcev4/sc-window.php:2457
+#: js/mcev4/sc-window.php:2563
+#: js/mcev4/sc-window.php:2790
+#: js/mcev4/sc-window.php:2861
+#: js/mcev4/sc-window.php:2983
+#: js/mcev4/sc-window.php:3068
+#: js/mcev4/sc-window.php:3121
+#: core/vc-extend.php:273
+#: core/vc-extend.php:668
+#: core/vc-extend.php:830
+#: core/vc-extend.php:1121
+#: core/vc-extend.php:1690
+#: core/vc-extend.php:1890
+#: core/vc-extend.php:2065
+#: core/vc-extend.php:3078
+#: core/vc-extend.php:3400
+msgid "Ion Icons"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2269
+msgid "Enable Link:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2278
+#: core/vc-extend.php:1729
+#: core/vc-extend.php:1732
+msgid "Enter the URL"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2280
+msgid "Select New Window or Same"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2282
+#: js/mcev4/sc-window.php:2427
+#: js/mcev4/sc-window.php:2717
+#: js/mcev4/sc-window.php:3039
+#: js/mcev4/sc-window.php:3142
+#: core/vc-extend.php:797
+#: core/vc-extend.php:1855
+#: core/vc-extend.php:2270
+#: core/vc-extend.php:3437
+msgid "New Window"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2283
+#: js/mcev4/sc-window.php:2428
+#: js/mcev4/sc-window.php:2718
+#: js/mcev4/sc-window.php:3040
+#: js/mcev4/sc-window.php:3143
+#: core/vc-extend.php:1856
+#: core/vc-extend.php:2271
+#: core/vc-extend.php:3438
+msgid "Same Window"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2285
+#: core/vc-extend.php:1753
+msgid "Select the icon size"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2287
+msgid "Standard"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2288
+msgid "2 x the size"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2289
+msgid "3 x the size"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2290
+msgid "4 x the size"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2291
+msgid "5 x the size"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2294
+#: js/mcev4/sc-window.php:2599
+#: js/mcev4/sc-window.php:2671
+#: core/vc-extend.php:330
+#: core/vc-extend.php:1980
+msgid "Font Color:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2297
+msgid "Enable Icon Spin:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2305
+msgid "Enable Circle Surround:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2314
+msgid "Surround Color:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2323
+msgid "Choose an icon, the color and a url for the link to add.  You can add a circle color and border around as well."
+msgstr ""
+
+#: js/mcev4/sc-window.php:2340
+msgid "Select List Type:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2342
+#: core/vc-extend.php:2053
+msgid "Unordered"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2343
+#: core/vc-extend.php:2054
+msgid "Ordered"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2371
+#: core/vc-extend.php:2097
+msgid "Bullet Background:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2378
+#: core/vc-extend.php:2106
+msgid "Use Custom Colors:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2381
+#: core/vc-extend.php:2109
+msgid "False - Theme Accent used"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2383
+#: core/vc-extend.php:2110
+msgid "True - Override Theme Accent"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2387
+#: core/vc-extend.php:2119
+msgid "Bullet Background Color:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2392
+#: core/vc-extend.php:2129
+msgid "Bullet Font Color:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2396
+msgid "Number of items:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2404
+msgid "Select an icon for your unordered checklists, bullet background and font color can be customized but defaults to theme accent for background color."
+msgstr ""
+
+#: js/mcev4/sc-window.php:2423
+#: js/mcev4/sc-window.php:2710
+#: core/vc-extend.php:547
+#: core/vc-extend.php:1846
+msgid "Button Link:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2425
+#: js/mcev4/sc-window.php:2715
+#: core/vc-extend.php:557
+msgid "Button Target:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2431
+#: core/vc-extend.php:1861
+msgid "Use Icons:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2439
+msgid "Icon Background Style:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2441
+msgid "Flat (Same Background as button)"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2442
+#: core/vc-extend.php:1874
+msgid "Square (Offset darker background)"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2443
+#: core/vc-extend.php:1875
+msgid "Diagonal (Diagonal cut darker background)"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2472
+#: core/vc-extend.php:1922
+msgid "Button Size:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2475
+#: js/mcev4/sc-window.php:2894
+#: js/mcev4/sc-window.php:3149
+#: core/vc-extend.php:1178
+#: core/vc-extend.php:1926
+#: core/vc-extend.php:3449
+msgid "Medium"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2477
+#: core/vc-extend.php:1928
+msgid "Extra Large"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2480
+#: core/vc-extend.php:1933
+msgid "Button Shape:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2482
+#: core/vc-extend.php:1936
+msgid "Square"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2483
+#: core/vc-extend.php:1937
+msgid "Square Rounded"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2484
+#: core/vc-extend.php:1938
+msgid "Round"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2487
+#: core/vc-extend.php:1943
+msgid "Button Style:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2489
+#: core/vc-extend.php:1946
+msgid "Flat Styled"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2490
+#: core/vc-extend.php:1947
+msgid "3D Styled"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2493
+#: core/vc-extend.php:1952
+msgid "Enable Hover:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2503
+msgid "Border Color and Size:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2515
+msgid "Text is the button text, link is the url for the button, target chooses to open a new or same window."
+msgstr ""
+
+#: js/mcev4/sc-window.php:2531
+#: core/vc-extend.php:237
+msgid "Alert Message Text"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2534
+msgid "Enable Close Button:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2543
+msgid "Enable Icon Before Message:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2578
+#: core/vc-extend.php:307
+msgid "Alert Type:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2580
+#: core/vc-extend.php:310
+msgid "General"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2581
+#: core/vc-extend.php:311
+msgid "Informational"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2582
+#: core/vc-extend.php:312
+msgid "Success"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2583
+#: core/vc-extend.php:313
+msgid "Warning"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2584
+#: core/vc-extend.php:314
+msgid "Error"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2589
+msgid "Font Size (px):"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2608
+msgid "Enter the alert text, choose if you would like to enable the close button, decide if you want an icon, and choose the type of alert message you want to use."
+msgstr ""
+
+#: js/mcev4/sc-window.php:2626
+msgid "Choose a Callout Type:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2628
+#: core/vc-extend.php:440
+msgid "Standard Box"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2629
+#: core/vc-extend.php:441
+msgid "Flip Box"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2633
+#: core/vc-extend.php:447
+msgid "The Title:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2638
+msgid "The Content:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2642
+msgid "Border Color, Size, and Radius:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2676
+msgid "Flip Content:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2681
+msgid "Flip Font Color:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2686
+msgid "Flip Background Color:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2691
+msgid "Flip Border Color:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2696
+msgid "Enable Button:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2721
+msgid "Button Font Color:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2725
+msgid "Button Background Color:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2729
+msgid "Button Border Color, Size, and Radius:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2754
+msgid "Enable Icon or Image:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2757
+#: core/vc-extend.php:623
+#: core/vc-extend.php:3054
+msgid "Enable Icon"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2759
+#: core/vc-extend.php:624
+msgid "Enable Image"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2774
+msgid "Image Height and Width (px):"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2795
+msgid "Icon Spin:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2814
+msgid "Icon Font Color:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2818
+msgid "Icon Background Color:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2823
+msgid "Choose the type of callout box you would like and set the options for it."
+msgstr ""
+
+#: js/mcev4/sc-window.php:2842
+#: core/vc-extend.php:1095
+msgid "Starting Number"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2846
+#: core/vc-extend.php:1101
+msgid "Stop Number"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2876
+#: js/mcev4/sc-window.php:2969
+#: js/mcev4/sc-window.php:3181
+msgid "Icon Color:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2879
+#: core/vc-extend.php:1155
+msgid "Short Text Before"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2883
+#: core/vc-extend.php:1161
+msgid "Short Text After"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2887
+#: core/vc-extend.php:1168
+msgid "Summary Below"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2891
+msgid "Milestone Size:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2898
+msgid "speed (thousands of a second)"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2902
+msgid "Start and Stop need to be numeric.  Text before and after are useful for percents or dollar signs...keep them short."
+msgstr ""
+
+#: js/mcev4/sc-window.php:2922
+msgid "Circle Text"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2926
+msgid "Circle Info (smaller text)"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2930
+msgid "Actual Percent Fill"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2934
+#: core/vc-extend.php:3001
+msgid "Chart Size"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2938
+#: core/vc-extend.php:262
+#: core/vc-extend.php:3008
+msgid "Font Size"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2942
+msgid "Bar width"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2946
+#: core/vc-extend.php:3022
+msgid "Circle Chart Type"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2948
+#: core/vc-extend.php:3025
+msgid "Full Circle"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2949
+#: core/vc-extend.php:3026
+msgid "Half Circle"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2954
+msgid "Bar Background Color:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2957
+msgid "Fill Color:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:2960
+msgid "Enable Icon:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:3013
+#: core/vc-extend.php:755
+msgid "Content Box Style"
+msgstr ""
+
+#: js/mcev4/sc-window.php:3015
+#: core/vc-extend.php:759
+msgid "Top Icon or Image"
+msgstr ""
+
+#: js/mcev4/sc-window.php:3016
+#: core/vc-extend.php:760
+msgid "Left Icon or Image"
+msgstr ""
+
+#: js/mcev4/sc-window.php:3019
+msgid "Enable Background"
+msgstr ""
+
+#: js/mcev4/sc-window.php:3021
+#: core/vc-extend.php:769
+msgid "Enable Transparent Background"
+msgstr ""
+
+#: js/mcev4/sc-window.php:3022
+msgid "Disable Background"
+msgstr ""
+
+#: js/mcev4/sc-window.php:3026
+msgid "Link and Icon Color:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:3030
+msgid "Read More Link:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:3034
+msgid "Read More Text:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:3037
+#: js/mcev4/sc-window.php:3140
+#: core/vc-extend.php:794
+#: core/vc-extend.php:3434
+msgid "Target"
+msgstr ""
+
+#: js/mcev4/sc-window.php:3048
+msgid "Content:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:3051
+#: core/vc-extend.php:816
+msgid "Use Icon or Image"
+msgstr ""
+
+#: js/mcev4/sc-window.php:3053
+#: core/vc-extend.php:819
+msgid "Use Icon"
+msgstr ""
+
+#: js/mcev4/sc-window.php:3054
+#: core/vc-extend.php:820
+msgid "Use Image"
+msgstr ""
+
+#: js/mcev4/sc-window.php:3092
+msgid "Leave Read More Link blank if you do not want a link."
+msgstr ""
+
+#: js/mcev4/sc-window.php:3137
+#: core/vc-extend.php:3428
+msgid "Link"
+msgstr ""
+
+#: js/mcev4/sc-window.php:3146
+msgid "Icon Size"
+msgstr ""
+
+#: js/mcev4/sc-window.php:3154
+#: core/vc-extend.php:3456
+msgid "Hover Title"
+msgstr ""
+
+#: js/mcev4/sc-window.php:3157
+#: core/vc-extend.php:3463
+msgid "Hover Title Placement"
+msgstr ""
+
+#: js/mcev4/sc-window.php:3165
+#: core/vc-extend.php:3475
+msgid "Framed"
+msgstr ""
+
+#: js/mcev4/sc-window.php:3167
+msgid "False - Just the icon"
+msgstr ""
+
+#: js/mcev4/sc-window.php:3168
+msgid "True - Icon and Background"
+msgstr ""
+
+#: js/mcev4/sc-window.php:3172
+#: core/vc-extend.php:3491
+msgid "Radius"
+msgstr ""
+
+#: js/mcev4/sc-window.php:3877
+msgid "Select Font Awesome Icon:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:3883
+#: js/mcev4/sc-window.php:3902
+#: js/mcev4/sc-window.php:3921
+msgid "Search"
+msgstr ""
+
+#: js/mcev4/sc-window.php:3896
+msgid "Select Linearicon:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:3915
+msgid "Select Ionicon:"
+msgstr ""
+
+#: js/mcev4/sc-window.php:3943
+msgid "--Select--"
+msgstr ""
+
+#: js/mcev4/sc-window.php:3947
+#: core/vc-extend.php:153
+msgid "Accordion"
+msgstr ""
+
+#: js/mcev4/sc-window.php:3951
+msgid "Alert Messages"
+msgstr ""
+
+#: js/mcev4/sc-window.php:3955
+#: core/vc-extend.php:355
+msgid "Anchor Link"
+msgstr ""
+
+#: js/mcev4/sc-window.php:3959
+#: core/vc-extend.php:385
+msgid "Animate"
+msgstr ""
+
+#: js/mcev4/sc-window.php:3967
+msgid "Block Quote Style 2"
+msgstr ""
+
+#: js/mcev4/sc-window.php:3971
+msgid "Button"
+msgstr ""
+
+#: js/mcev4/sc-window.php:3975
+msgid "Callout Box"
+msgstr ""
+
+#: js/mcev4/sc-window.php:3979
+#: core/vc-extend.php:2974
+msgid "Circle Chart"
+msgstr ""
+
+#: js/mcev4/sc-window.php:3983
+msgid "Centered Content"
+msgstr ""
+
+#: js/mcev4/sc-window.php:3987
+#: core/vc-extend.php:2501
+#: core/vc-extend.php:2502
+msgid "Color Background Section"
+msgstr ""
+
+#: js/mcev4/sc-window.php:3991
+msgid "Columns"
+msgstr ""
+
+#: js/mcev4/sc-window.php:3995
+#: core/vc-extend.php:3843
+msgid "Contact Form"
+msgstr ""
+
+#: js/mcev4/sc-window.php:3999
+#: core/vc-extend.php:747
+msgid "Content Box"
+msgstr ""
+
+#: js/mcev4/sc-window.php:4003
+#: core/vc-extend.php:880
+msgid "Countdown"
+msgstr ""
+
+#: js/mcev4/sc-window.php:4007
+msgid "Dividers"
+msgstr ""
+
+#: js/mcev4/sc-window.php:4011
+#: core/vc-extend.php:1388
+msgid "Dropcap"
+msgstr ""
+
+#: js/mcev4/sc-window.php:4015
+msgid "Google Docs"
+msgstr ""
+
+#: js/mcev4/sc-window.php:4019
+#: core/vc-extend.php:3612
+msgid "Google Map"
+msgstr ""
+
+#: js/mcev4/sc-window.php:4023
+msgid "Header Styled"
+msgstr ""
+
+#: js/mcev4/sc-window.php:4027
+#: core/vc-extend.php:1991
+msgid "Header Double Bar"
+msgstr ""
+
+#: js/mcev4/sc-window.php:4031
+msgid "Highlight"
+msgstr ""
+
+#: js/mcev4/sc-window.php:4035
+#: core/vc-extend.php:1108
+#: core/vc-extend.php:1676
+#: core/vc-extend.php:3387
+msgid "Icons"
+msgstr ""
+
+#: js/mcev4/sc-window.php:4040
+#: core/vc-extend.php:2545
+msgid "Image Background Section"
+msgstr ""
+
+#: js/mcev4/sc-window.php:4044
+#: core/vc-extend.php:1559
+msgid "Image Frame"
+msgstr ""
+
+#: js/mcev4/sc-window.php:4048
+msgid "Latest Posts"
+msgstr ""
+
+#: js/mcev4/sc-window.php:4052
+msgid "Lists"
+msgstr ""
+
+#: js/mcev4/sc-window.php:4056
+#: core/vc-extend.php:1087
+msgid "Milestone"
+msgstr ""
+
+#: js/mcev4/sc-window.php:4060
+#: core/vc-extend.php:3114
+msgid "Modal"
+msgstr ""
+
+#: js/mcev4/sc-window.php:4064
+msgid "Parallax, Solid & Video Section"
+msgstr ""
+
+#: js/mcev4/sc-window.php:4068
+#: core/vc-extend.php:2710
+#: core/register-custom-posts.php:62
+#: core/register-custom-posts.php:63
+msgid "People"
+msgstr ""
+
+#: js/mcev4/sc-window.php:4072
+#: core/vc-extend.php:2734
+#: core/vc-extend.php:2735
+msgid "Popover"
+msgstr ""
+
+#: js/mcev4/sc-window.php:4076
+#: core/vc-extend.php:1040
+msgid "Portfolio Grid"
+msgstr ""
+
+#: js/mcev4/sc-window.php:4080
+#: core/vc-extend.php:2166
+msgid "Price Table"
+msgstr ""
+
+#: js/mcev4/sc-window.php:4084
+#: core/vc-extend.php:2896
+msgid "Progress Bar"
+msgstr ""
+
+#: js/mcev4/sc-window.php:4088
+#: core/vc-extend.php:1345
+msgid "Pullquote"
+msgstr ""
+
+#: js/mcev4/sc-window.php:4092
+#: core/vc-extend.php:3291
+msgid "Sitemap"
+msgstr ""
+
+#: js/mcev4/sc-window.php:4096
+msgid "Social Icons"
+msgstr ""
+
+#: js/mcev4/sc-window.php:4100
+#: core/vc-extend.php:3517
+msgid "SoundCloud"
+msgstr ""
+
+#: js/mcev4/sc-window.php:4104
+#: core/vc-extend.php:2293
+msgid "Table"
+msgstr ""
+
+#: js/mcev4/sc-window.php:4108
+#: core/vc-extend.php:2440
+msgid "Testimonial"
+msgstr ""
+
+#: js/mcev4/sc-window.php:4112
+#: core/vc-extend.php:2392
+msgid "Testimonial Carousel"
+msgstr ""
+
+#: js/mcev4/sc-window.php:4116
+#: core/vc-extend.php:2855
+#: core/vc-extend.php:2856
+msgid "Tooltip"
+msgstr ""
+
+#: core/vc-nestedshortcodes.php:513
+#: core/create-shortcodes.php:2403
+msgid "the text"
+msgstr ""
+
+#: core/vc-nestedshortcodes.php:514
+#: core/create-shortcodes.php:2404
+msgid "the title"
+msgstr ""
+
+#: core/vc-extend.php:159
+msgid "Add SH-Themes Accordion"
+msgstr ""
+
+#: core/vc-extend.php:161
+#: core/vc-extend.php:232
+#: core/vc-extend.php:359
+#: core/vc-extend.php:393
+#: core/vc-extend.php:433
+#: core/vc-extend.php:751
+#: core/vc-extend.php:884
+#: core/vc-extend.php:926
+#: core/vc-extend.php:1002
+#: core/vc-extend.php:1044
+#: core/vc-extend.php:1091
+#: core/vc-extend.php:1202
+#: core/vc-extend.php:1307
+#: core/vc-extend.php:1328
+#: core/vc-extend.php:1350
+#: core/vc-extend.php:1393
+#: core/vc-extend.php:1488
+#: core/vc-extend.php:1563
+#: core/vc-extend.php:1672
+#: core/vc-extend.php:1835
+#: core/vc-extend.php:1996
+#: core/vc-extend.php:2045
+#: core/vc-extend.php:2174
+#: core/vc-extend.php:2301
+#: core/vc-extend.php:2400
+#: core/vc-extend.php:2446
+#: core/vc-extend.php:2509
+#: core/vc-extend.php:2553
+#: core/vc-extend.php:2614
+#: core/vc-extend.php:2715
+#: core/vc-extend.php:2743
+#: core/vc-extend.php:2863
+#: core/vc-extend.php:2900
+#: core/vc-extend.php:2978
+#: core/vc-extend.php:3118
+#: core/vc-extend.php:3254
+#: core/vc-extend.php:3295
+#: core/vc-extend.php:3383
+#: core/vc-extend.php:3521
+#: core/vc-extend.php:3568
+#: core/vc-extend.php:3616
+#: core/vc-extend.php:3847
+msgid "SH-Themes"
+msgstr ""
+
+#: core/vc-extend.php:166
+msgid "Select Accordion Type"
+msgstr ""
+
+#: core/vc-extend.php:169
+msgid "Single Open"
+msgstr ""
+
+#: core/vc-extend.php:170
+msgid "Many Open"
+msgstr ""
+
+#: core/vc-extend.php:172
+msgid "One or Many Open at once"
+msgstr ""
+
+#: core/vc-extend.php:176
+msgid "Tab 1"
+msgstr ""
+
+#: core/vc-extend.php:177
+#: core/vc-extend.php:179
+msgid "Add your content"
+msgstr ""
+
+#: core/vc-extend.php:178
+msgid "Tab 2"
+msgstr ""
+
+#: core/vc-extend.php:184
+msgid "Accordion Tab"
+msgstr ""
+
+#: core/vc-extend.php:192
+msgid "Open or Closed on page load"
+msgstr ""
+
+#: core/vc-extend.php:195
+msgid "Closed"
+msgstr ""
+
+#: core/vc-extend.php:196
+msgid "Open"
+msgstr ""
+
+#: core/vc-extend.php:198
+msgid "Choose if you want this tab open on page load"
+msgstr ""
+
+#: core/vc-extend.php:205
+msgid "Tab Title"
+msgstr ""
+
+#: core/vc-extend.php:209
+#: core/vc-extend.php:2154
+msgid "Enter Text"
+msgstr ""
+
+#: core/vc-extend.php:211
+msgid "Enter your content"
+msgstr ""
+
+#: core/vc-extend.php:212
+msgid "Enter the Accordion Tab content."
+msgstr ""
+
+#: core/vc-extend.php:228
+msgid "Alert Box"
+msgstr ""
+
+#: core/vc-extend.php:231
+msgid "Alert and Info Boxes"
+msgstr ""
+
+#: core/vc-extend.php:239
+#: core/create-shortcodes.php:2960
+msgid "Your Message"
+msgstr ""
+
+#: core/vc-extend.php:243
+msgid "Enable Close Button"
+msgstr ""
+
+#: core/vc-extend.php:252
+msgid "Enable Font Before Message:"
+msgstr ""
+
+#: core/vc-extend.php:264
+msgid "15px"
+msgstr ""
+
+#: core/vc-extend.php:268
+#: core/vc-extend.php:663
+#: core/vc-extend.php:825
+#: core/vc-extend.php:1116
+#: core/vc-extend.php:1684
+#: core/vc-extend.php:1885
+#: core/vc-extend.php:2060
+#: core/vc-extend.php:3073
+#: core/vc-extend.php:3395
+msgid "Choose The Icons to use:"
+msgstr ""
+
+#: core/vc-extend.php:271
+#: core/vc-extend.php:666
+#: core/vc-extend.php:828
+#: core/vc-extend.php:1119
+#: core/vc-extend.php:1688
+#: core/vc-extend.php:1888
+#: core/vc-extend.php:2063
+#: core/vc-extend.php:3076
+#: core/vc-extend.php:3398
+msgid "Font Awesome"
+msgstr ""
+
+#: core/vc-extend.php:275
+#: core/vc-extend.php:670
+#: core/vc-extend.php:832
+#: core/vc-extend.php:1123
+#: core/vc-extend.php:1892
+#: core/vc-extend.php:2067
+#: core/vc-extend.php:3080
+#: core/vc-extend.php:3402
+msgid "If you are going to use Linearicons or Ionicons, make sure you've enabled them in Theme Options -> General Settings."
+msgstr ""
+
+#: core/vc-extend.php:285
+#: core/vc-extend.php:3089
+msgid "Choose a Font Awesome icon"
+msgstr ""
+
+#: core/vc-extend.php:292
+#: core/vc-extend.php:687
+#: core/vc-extend.php:849
+#: core/vc-extend.php:1135
+#: core/vc-extend.php:1706
+#: core/vc-extend.php:1908
+#: core/vc-extend.php:2083
+#: core/vc-extend.php:3096
+#: core/vc-extend.php:3414
+msgid "Choose a Linearicons icon"
+msgstr ""
+
+#: core/vc-extend.php:299
+#: core/vc-extend.php:694
+#: core/vc-extend.php:856
+#: core/vc-extend.php:1142
+#: core/vc-extend.php:1713
+#: core/vc-extend.php:1915
+#: core/vc-extend.php:2090
+#: core/vc-extend.php:3103
+#: core/vc-extend.php:3421
+msgid "Choose an Ionicons icon"
+msgstr ""
+
+#: core/vc-extend.php:357
+msgid "Create an anchor link that you can point a custom url to."
+msgstr ""
+
+#: core/vc-extend.php:364
+msgid "Unique Anchor ID"
+msgstr ""
+
+#: core/vc-extend.php:366
+msgid "contact-section"
+msgstr ""
+
+#: core/vc-extend.php:373
+msgid "Leave blank for hidden anchor, useful if using above a section"
+msgstr ""
+
+#: core/vc-extend.php:387
+msgid "Animate Other Elements"
+msgstr ""
+
+#: core/vc-extend.php:398
+#: core/vc-extend.php:2050
+msgid "Select List Type"
+msgstr ""
+
+#: core/vc-extend.php:404
+msgid "Set Delay"
+msgstr ""
+
+#: core/vc-extend.php:407
+msgid "Set a delay if you would like, these are in thousands of seconds (1000 = 1 second)"
+msgstr ""
+
+#: core/vc-extend.php:429
+msgid "Callout"
+msgstr ""
+
+#: core/vc-extend.php:432
+msgid "Fancy Boxes with content and links"
+msgstr ""
+
+#: core/vc-extend.php:437
+msgid "Choose a Callout Type"
+msgstr ""
+
+#: core/vc-extend.php:449
+#: core/create-shortcodes.php:1062
+msgid "Enter Your Title"
+msgstr ""
+
+#: core/vc-extend.php:453
+msgid "The Content"
+msgstr ""
+
+#: core/vc-extend.php:455
+msgid "This is the text area (for flip boxes this is the first page)"
+msgstr ""
+
+#: core/vc-extend.php:471
+msgid "Border Radius"
+msgstr ""
+
+#: core/vc-extend.php:489
+msgid "Flip Content"
+msgstr ""
+
+#: core/vc-extend.php:498
+msgid "Flip Font Color"
+msgstr ""
+
+#: core/vc-extend.php:508
+msgid "Flip Background Color"
+msgstr ""
+
+#: core/vc-extend.php:518
+msgid "Flip Border Color"
+msgstr ""
+
+#: core/vc-extend.php:528
+msgid "Enable Button"
+msgstr ""
+
+#: core/vc-extend.php:570
+msgid "Button Font Color"
+msgstr ""
+
+#: core/vc-extend.php:590
+msgid "Button Border Size"
+msgstr ""
+
+#: core/vc-extend.php:610
+#: core/vc-extend.php:3227
+msgid "Button Border Radius"
+msgstr ""
+
+#: core/vc-extend.php:620
+msgid "Enable Icon or Image"
+msgstr ""
+
+#: core/vc-extend.php:630
+msgid "Image to use"
+msgstr ""
+
+#: core/vc-extend.php:632
+msgid "Single image only"
+msgstr ""
+
+#: core/vc-extend.php:640
+msgid "Image Height"
+msgstr ""
+
+#: core/vc-extend.php:643
+#: core/vc-extend.php:655
+msgid "Should be a number with px following e.g. 200px"
+msgstr ""
+
+#: core/vc-extend.php:652
+msgid "Image Width"
+msgstr ""
+
+#: core/vc-extend.php:680
+#: core/vc-extend.php:842
+#: core/vc-extend.php:1128
+#: core/vc-extend.php:1699
+#: core/vc-extend.php:1901
+#: core/vc-extend.php:2076
+#: core/vc-extend.php:3407
+msgid "Choose an icon"
+msgstr ""
+
+#: core/vc-extend.php:701
+msgid "Icon Spin"
+msgstr ""
+
+#: core/vc-extend.php:715
+msgid "Icon Font Color"
+msgstr ""
+
+#: core/vc-extend.php:725
+msgid "Icon Background Color"
+msgstr ""
+
+#: core/vc-extend.php:750
+msgid "Add some uniqueness to your site"
+msgstr ""
+
+#: core/vc-extend.php:762
+msgid "Set where you want the icon or image placed"
+msgstr ""
+
+#: core/vc-extend.php:770
+msgid "Disable Transparent Background"
+msgstr ""
+
+#: core/vc-extend.php:775
+msgid "Link and Icon Color"
+msgstr ""
+
+#: core/vc-extend.php:778
+msgid "Color for Icons and links"
+msgstr ""
+
+#: core/vc-extend.php:782
+msgid "Read More Link"
+msgstr ""
+
+#: core/vc-extend.php:784
+msgid "Enter a url if you want to have a link to another page"
+msgstr ""
+
+#: core/vc-extend.php:788
+msgid "Read More Text"
+msgstr ""
+
+#: core/vc-extend.php:790
+msgid "Enter the text for the Read More link"
+msgstr ""
+
+#: core/vc-extend.php:798
+msgid "Current Window"
+msgstr ""
+
+#: core/vc-extend.php:806
+msgid "Content Box Title"
+msgstr ""
+
+#: core/vc-extend.php:812
+msgid "Enter the content for this box"
+msgstr ""
+
+#: core/vc-extend.php:863
+#: core/vc-extend.php:1603
+msgid "Image"
+msgstr ""
+
+#: core/vc-extend.php:865
+msgid "Keep images small for the content box."
+msgstr ""
+
+#: core/vc-extend.php:883
+msgid "Countdown to a future date"
+msgstr ""
+
+#: core/vc-extend.php:888
+msgid "Timestamp"
+msgstr ""
+
+#: core/vc-extend.php:892
+msgid "Enter your time in this format: <b>4 September 2015 00:00:00</b> where 00:00:00 equals Hours:Minutes:Seconds"
+msgstr ""
+
+#: core/vc-extend.php:901
+msgid "Tiles"
+msgstr ""
+
+#: core/vc-extend.php:922
+msgid "Divider"
+msgstr ""
+
+#: core/vc-extend.php:925
+msgid "Horizontal Content Seperator"
+msgstr ""
+
+#: core/vc-extend.php:938
+msgid "Double Line"
+msgstr ""
+
+#: core/vc-extend.php:941
+msgid "Shadow Divider"
+msgstr ""
+
+#: core/vc-extend.php:942
+msgid "Look Down Divider"
+msgstr ""
+
+#: core/vc-extend.php:944
+msgid "You can use none and spacing to space content"
+msgstr ""
+
+#: core/vc-extend.php:948
+msgid "Divider Color"
+msgstr ""
+
+#: core/vc-extend.php:958
+msgid "Divider Width"
+msgstr ""
+
+#: core/vc-extend.php:961
+msgid "Wide"
+msgstr ""
+
+#: core/vc-extend.php:979
+msgid "Enable Return to Top"
+msgstr ""
+
+#: core/vc-extend.php:985
+msgid "Add a return to top link in the divider if you would like."
+msgstr ""
+
+#: core/vc-extend.php:998
+msgid "Latest Posts Grid"
+msgstr ""
+
+#: core/vc-extend.php:1001
+msgid "A grid of latest posts to add to other pages"
+msgstr ""
+
+#: core/vc-extend.php:1010
+#: core/vc-extend.php:1052
+msgid "2 Items"
+msgstr ""
+
+#: core/vc-extend.php:1011
+#: core/vc-extend.php:1053
+msgid "3 Items"
+msgstr ""
+
+#: core/vc-extend.php:1012
+#: core/vc-extend.php:1054
+msgid "4 Items"
+msgstr ""
+
+#: core/vc-extend.php:1013
+#: core/vc-extend.php:1055
+msgid "5 Items"
+msgstr ""
+
+#: core/vc-extend.php:1015
+#: core/vc-extend.php:1058
+msgid "Number of posts per row"
+msgstr ""
+
+#: core/vc-extend.php:1019
+#: core/vc-extend.php:1062
+msgid "Total Shown"
+msgstr ""
+
+#: core/vc-extend.php:1027
+#: core/vc-extend.php:1070
+msgid "Seperate with commas, leave blank for all categories"
+msgstr ""
+
+#: core/vc-extend.php:1043
+msgid "A grid of portfolio entries"
+msgstr ""
+
+#: core/vc-extend.php:1056
+msgid "6 Items"
+msgstr ""
+
+#: core/vc-extend.php:1090
+msgid "Animated Progress Element"
+msgstr ""
+
+#: core/vc-extend.php:1111
+#: core/vc-extend.php:1679
+#: core/vc-extend.php:3390
+msgid "Enable Icons"
+msgstr ""
+
+#: core/vc-extend.php:1149
+#: core/vc-extend.php:3063
+msgid "Icon Color"
+msgstr ""
+
+#: core/vc-extend.php:1157
+#: core/vc-extend.php:1163
+msgid "Useful for symbols, leave empty if you would like"
+msgstr ""
+
+#: core/vc-extend.php:1170
+msgid "Summary Text below the number"
+msgstr ""
+
+#: core/vc-extend.php:1174
+#: core/vc-extend.php:2010
+#: core/vc-extend.php:3444
+msgid "Size"
+msgstr ""
+
+#: core/vc-extend.php:1184
+msgid "Milestone Speed"
+msgstr ""
+
+#: core/vc-extend.php:1186
+msgid "Enter the speed in thousanths of a second (e.g. 1000 = 1 second)"
+msgstr ""
+
+#: core/vc-extend.php:1197
+msgid "Styled Header"
+msgstr ""
+
+#: core/vc-extend.php:1201
+msgid "Headers with style"
+msgstr ""
+
+#: core/vc-extend.php:1223
+msgid "Boxed"
+msgstr ""
+
+#: core/vc-extend.php:1231
+msgid "Your Title"
+msgstr ""
+
+#: core/vc-extend.php:1237
+msgid "A Summary below the header if desired."
+msgstr ""
+
+#: core/vc-extend.php:1245
+msgid "Change Heading Color"
+msgstr ""
+
+#: core/vc-extend.php:1248
+msgid "Disabled"
+msgstr ""
+
+#: core/vc-extend.php:1249
+#: core/vc-extend.php:1865
+msgid "Enabled"
+msgstr ""
+
+#: core/vc-extend.php:1251
+msgid "Disabled keeps the default font color"
+msgstr ""
+
+#: core/vc-extend.php:1265
+msgid "Change Header Bar height"
+msgstr ""
+
+#: core/vc-extend.php:1272
+msgid "Bar height should be in px format e.g. 2px or 3px etc."
+msgstr ""
+
+#: core/vc-extend.php:1276
+msgid "Change Header Bar width"
+msgstr ""
+
+#: core/vc-extend.php:1283
+msgid "Bar width should be in px format e.g. 100px or 200px etc."
+msgstr ""
+
+#: core/vc-extend.php:1287
+msgid "Change Header Bar Color"
+msgstr ""
+
+#: core/vc-extend.php:1302
+msgid "Blockquote"
+msgstr ""
+
+#: core/vc-extend.php:1306
+msgid "Blockquote Element Style 1"
+msgstr ""
+
+#: core/vc-extend.php:1313
+#: core/vc-extend.php:1334
+msgid "Text to quote"
+msgstr ""
+
+#: core/vc-extend.php:1314
+#: core/vc-extend.php:1335
+msgid "Enter the text to quote."
+msgstr ""
+
+#: core/vc-extend.php:1323
+msgid "Blockquote 2"
+msgstr ""
+
+#: core/vc-extend.php:1327
+msgid "Blockquote Element Style 2"
+msgstr ""
+
+#: core/vc-extend.php:1349
+msgid "Quote aligned left or right"
+msgstr ""
+
+#: core/vc-extend.php:1356
+msgid "The quote text"
+msgstr ""
+
+#: core/vc-extend.php:1357
+msgid "Enter the quote."
+msgstr ""
+
+#: core/vc-extend.php:1369
+msgid "Choose the side for the quote."
+msgstr ""
+
+#: core/vc-extend.php:1377
+msgid "Source of quote (if wanted)."
+msgstr ""
+
+#: core/vc-extend.php:1392
+msgid "Insert a large, styled letter"
+msgstr ""
+
+#: core/vc-extend.php:1400
+msgid "S"
+msgstr ""
+
+#: core/vc-extend.php:1401
+msgid "Enter the letter you want to dropcap."
+msgstr ""
+
+#: core/vc-extend.php:1405
+msgid "Choose Style"
+msgstr ""
+
+#: core/vc-extend.php:1409
+msgid "Custom Colors"
+msgstr ""
+
+#: core/vc-extend.php:1411
+msgid "Choose a style."
+msgstr ""
+
+#: core/vc-extend.php:1418
+msgid "Font Highlight"
+msgstr ""
+
+#: core/vc-extend.php:1425
+#: core/vc-extend.php:1436
+msgid "Choose what to highlight."
+msgstr ""
+
+#: core/vc-extend.php:1429
+msgid "Dropcap Font Color"
+msgstr ""
+
+#: core/vc-extend.php:1444
+msgid "Set background color"
+msgstr ""
+
+#: core/vc-extend.php:1450
+msgid "Set a backgrond or just color the font."
+msgstr ""
+
+#: core/vc-extend.php:1455
+msgid "Dropcap Background Color"
+msgstr ""
+
+#: core/vc-extend.php:1462
+msgid "Set a background color."
+msgstr ""
+
+#: core/vc-extend.php:1466
+msgid "Set dropshadow on letter"
+msgstr ""
+
+#: core/vc-extend.php:1469
+msgid "Do not set a dropshadow"
+msgstr ""
+
+#: core/vc-extend.php:1470
+msgid "Set a dropshadow"
+msgstr ""
+
+#: core/vc-extend.php:1472
+msgid "Decide if you would like a dropshadow on the dropcap letter."
+msgstr ""
+
+#: core/vc-extend.php:1487
+msgid "Highlight a portion of text"
+msgstr ""
+
+#: core/vc-extend.php:1495
+msgid "Highlighted text"
+msgstr ""
+
+#: core/vc-extend.php:1496
+msgid "Enter the text to highlight."
+msgstr ""
+
+#: core/vc-extend.php:1504
+msgid "Accent Color"
+msgstr ""
+
+#: core/vc-extend.php:1505
+msgid "Dark Color"
+msgstr ""
+
+#: core/vc-extend.php:1509
+msgid "Choose the color of the highlight"
+msgstr ""
+
+#: core/vc-extend.php:1513
+msgid "Background or Foreground"
+msgstr ""
+
+#: core/vc-extend.php:1523
+msgid "Choose if you are highlighting the foreground or background"
+msgstr ""
+
+#: core/vc-extend.php:1527
+msgid "Highlight Font Color"
+msgstr ""
+
+#: core/vc-extend.php:1534
+msgid "Set your custom font color."
+msgstr ""
+
+#: core/vc-extend.php:1538
+msgid "Highlight Background Color"
+msgstr ""
+
+#: core/vc-extend.php:1545
+msgid "Set your custom background color."
+msgstr ""
+
+#: core/vc-extend.php:1562
+msgid "Add a fancy style frame to your image"
+msgstr ""
+
+#: core/vc-extend.php:1571
+msgid "Set Only Border and Padding"
+msgstr ""
+
+#: core/vc-extend.php:1578
+msgid "Select the image frame style."
+msgstr ""
+
+#: core/vc-extend.php:1585
+msgid "Set your border size."
+msgstr ""
+
+#: core/vc-extend.php:1592
+msgid "Set your border color."
+msgstr ""
+
+#: core/vc-extend.php:1599
+msgid "Set your padding space around the image."
+msgstr ""
+
+#: core/vc-extend.php:1605
+msgid "Select the image to use (single image)."
+msgstr ""
+
+#: core/vc-extend.php:1613
+msgid "URL"
+msgstr ""
+
+#: core/vc-extend.php:1614
+msgid "Lightbox"
+msgstr ""
+
+#: core/vc-extend.php:1616
+msgid "Select if you want the image to link to a url or open a larger one in a lightbox."
+msgstr ""
+
+#: core/vc-extend.php:1626
+msgid "Select if you would like the hover effect enabled with your theme accent color."
+msgstr ""
+
+#: core/vc-extend.php:1636
+msgid "Set a title for your image (on hover and in lightbox)."
+msgstr ""
+
+#: core/vc-extend.php:1646
+msgid "Set the url that clicking the image will go to.  example: http://www.example.com"
+msgstr ""
+
+#: core/vc-extend.php:1666
+msgid "Icon"
+msgstr ""
+
+#: core/vc-extend.php:1670
+msgid "Icons with many choices"
+msgstr ""
+
+#: core/vc-extend.php:1692
+msgid ""
+"If you are going to use Linearicons or Ionicons, make sure you've enabled them in Theme Op\n"
+"tions -> General Settings."
+msgstr ""
+
+#: core/vc-extend.php:1720
+msgid "Enable Link"
+msgstr ""
+
+#: core/vc-extend.php:1740
+msgid "Select New Window or Same Window"
+msgstr ""
+
+#: core/vc-extend.php:1771
+msgid "Enable Icon Spin"
+msgstr ""
+
+#: core/vc-extend.php:1784
+msgid "Enable Circle Surround"
+msgstr ""
+
+#: core/vc-extend.php:1793
+msgid "Surround Color"
+msgstr ""
+
+#: core/vc-extend.php:1830
+msgid "Buttons"
+msgstr ""
+
+#: core/vc-extend.php:1833
+msgid "Beautiful Buttons"
+msgstr ""
+
+#: core/vc-extend.php:1842
+msgid "Enter The Button Text"
+msgstr ""
+
+#: core/vc-extend.php:1848
+msgid "http://www.example.com"
+msgstr ""
+
+#: core/vc-extend.php:1852
+#: core/vc-extend.php:2267
+msgid "Button Target"
+msgstr ""
+
+#: core/vc-extend.php:1870
+msgid "Icon Background Style"
+msgstr ""
+
+#: core/vc-extend.php:1873
+msgid "Flat (Same Background as Button)"
+msgstr ""
+
+#: core/vc-extend.php:1973
+msgid "Border Size:"
+msgstr ""
+
+#: core/vc-extend.php:1976
+msgid "Border size of 0 means no border"
+msgstr ""
+
+#: core/vc-extend.php:1995
+msgid "Header with two bars inline"
+msgstr ""
+
+#: core/vc-extend.php:2003
+msgid "Section Title"
+msgstr ""
+
+#: core/vc-extend.php:2004
+msgid "Enter the header text."
+msgstr ""
+
+#: core/vc-extend.php:2020
+msgid "Choose a Header size."
+msgstr ""
+
+#: core/vc-extend.php:2037
+msgid "List"
+msgstr ""
+
+#: core/vc-extend.php:2043
+msgid "Add a styled checklist"
+msgstr ""
+
+#: core/vc-extend.php:2139
+msgid "checklist item 1"
+msgstr ""
+
+#: core/vc-extend.php:2140
+msgid "checklist item 2"
+msgstr ""
+
+#: core/vc-extend.php:2145
+msgid "Checklist Item"
+msgstr ""
+
+#: core/vc-extend.php:2156
+msgid "Checklist item text"
+msgstr ""
+
+#: core/vc-extend.php:2157
+msgid "Enter the checklist item text."
+msgstr ""
+
+#: core/vc-extend.php:2168
+msgid "Tables to organize pricing plans"
+msgstr ""
+
+#: core/vc-extend.php:2182
+#: core/vc-extend.php:2185
+msgid "Three Columns"
+msgstr ""
+
+#: core/vc-extend.php:2183
+msgid "One Column"
+msgstr ""
+
+#: core/vc-extend.php:2184
+msgid "Two Columns"
+msgstr ""
+
+#: core/vc-extend.php:2186
+msgid "Four Columns"
+msgstr ""
+
+#: core/vc-extend.php:2187
+msgid "Five Columns"
+msgstr ""
+
+#: core/vc-extend.php:2188
+msgid "Six Columns"
+msgstr ""
+
+#: core/vc-extend.php:2190
+msgid "<u>Please Note:</u>Column count must actually match the number of Columns you add to the price table or things will not work right.  So if you plan on using four columns choose 4 here and add your 4 columns."
+msgstr ""
+
+#: core/vc-extend.php:2195
+#: core/vc-extend.php:2306
+msgid "Select Style"
+msgstr ""
+
+#: core/vc-extend.php:2199
+msgid "Light Colored Columns"
+msgstr ""
+
+#: core/vc-extend.php:2211
+msgid "Price Table Column"
+msgstr ""
+
+#: core/vc-extend.php:2220
+#: core/vc-extend.php:2222
+msgid "Column Title"
+msgstr ""
+
+#: core/vc-extend.php:2226
+msgid "Column Color"
+msgstr ""
+
+#: core/vc-extend.php:2232
+msgid "Highlight This Column?"
+msgstr ""
+
+#: core/vc-extend.php:2235
+msgid "Don't Highlight This Column"
+msgstr ""
+
+#: core/vc-extend.php:2236
+msgid "Highlight This Column"
+msgstr ""
+
+#: core/vc-extend.php:2238
+msgid "You should probably only have at most one column highlighted per price table."
+msgstr ""
+
+#: core/vc-extend.php:2242
+msgid "Enter Cost Details"
+msgstr ""
+
+#: core/vc-extend.php:2248
+msgid "Short Tag"
+msgstr ""
+
+#: core/vc-extend.php:2251
+msgid "Enter a short tag if you would like, this will show up as a rotated text at the top right of the column.  Keep it short e.g. Hi-Speed or Best Value!."
+msgstr ""
+
+#: core/vc-extend.php:2257
+msgid "Order Now!"
+msgstr ""
+
+#: core/vc-extend.php:2261
+msgid "Button Link"
+msgstr ""
+
+#: core/vc-extend.php:2263
+msgid "Enter a complete url e.g. http://www.example.com"
+msgstr ""
+
+#: core/vc-extend.php:2279
+msgid "Enter a few points for this column, use paragraphs or lists for each row"
+msgstr ""
+
+#: core/vc-extend.php:2295
+msgid "Tables to organize data"
+msgstr ""
+
+#: core/vc-extend.php:2309
+msgid "Bordered Table"
+msgstr ""
+
+#: core/vc-extend.php:2315
+msgid "Row Background Color"
+msgstr ""
+
+#: core/vc-extend.php:2318
+msgid "Set The Row Background Color."
+msgstr ""
+
+#: core/vc-extend.php:2322
+msgid "Row Alternate Background Color"
+msgstr ""
+
+#: core/vc-extend.php:2325
+msgid "Set The Alternate Row Background color."
+msgstr ""
+
+#: core/vc-extend.php:2332
+msgid "Set The Table Border color (if borders are used)."
+msgstr ""
+
+#: core/vc-extend.php:2336
+msgid "Hover Color"
+msgstr ""
+
+#: core/vc-extend.php:2339
+msgid "Set The Table Row Hover Color."
+msgstr ""
+
+#: core/vc-extend.php:2343
+#: core/vc-extend.php:2362
+msgid "Head 1,, Head 2,, Head 3,, Head 4,, Head 5"
+msgstr ""
+
+#: core/vc-extend.php:2344
+#: core/vc-extend.php:2345
+#: core/vc-extend.php:2346
+#: core/vc-extend.php:2380
+msgid "Data 1,, Data 2,, Data 3,, Data 4,, Data 5"
+msgstr ""
+
+#: core/vc-extend.php:2351
+msgid "Table Head Row"
+msgstr ""
+
+#: core/vc-extend.php:2361
+#: core/vc-extend.php:2379
+msgid "Head Row Data"
+msgstr ""
+
+#: core/vc-extend.php:2363
+msgid "Insert your data seperated by double commas (e.g. data1,, data2,,).  Match the number of columns set in the table container settings."
+msgstr ""
+
+#: core/vc-extend.php:2369
+msgid "Table Row"
+msgstr ""
+
+#: core/vc-extend.php:2381
+msgid ""
+"Insert your data seperated by double commas (e.g. data1,, data2,,).  Match the number of co\n"
+"lumns set in the table container settings."
+msgstr ""
+
+#: core/vc-extend.php:2398
+msgid "Add a Testimonial Carousel"
+msgstr ""
+
+#: core/vc-extend.php:2404
+msgid "Pause Per Slide"
+msgstr ""
+
+#: core/vc-extend.php:2407
+msgid "Pause time per slide (e.g. 5000) 1000 = 1 second."
+msgstr ""
+
+#: core/vc-extend.php:2418
+msgid "Slide Transition Effects."
+msgstr ""
+
+#: core/vc-extend.php:2422
+msgid "Slide Container Adapt"
+msgstr ""
+
+#: core/vc-extend.php:2426
+msgid "False - Slide show retains size"
+msgstr ""
+
+#: core/vc-extend.php:2428
+msgid "Slideshow height can adapt to each slide height."
+msgstr ""
+
+#: core/vc-extend.php:2433
+#: core/vc-extend.php:2435
+msgid "Add your testimonial"
+msgstr ""
+
+#: core/vc-extend.php:2443
+msgid "Individual Testimonial"
+msgstr ""
+
+#: core/vc-extend.php:2453
+msgid "The Name of the person giving the testimonial."
+msgstr ""
+
+#: core/vc-extend.php:2459
+msgid "The title of the person giving the testimonial"
+msgstr ""
+
+#: core/vc-extend.php:2463
+msgid "Attach a photo"
+msgstr ""
+
+#: core/vc-extend.php:2465
+msgid "Optionally add a small image for the person."
+msgstr ""
+
+#: core/vc-extend.php:2471
+msgid "Enter The Testimonial"
+msgstr ""
+
+#: core/vc-extend.php:2478
+msgid "Set The Testimonial Font Color."
+msgstr ""
+
+#: core/vc-extend.php:2485
+msgid "Set The Testimonial Background color."
+msgstr ""
+
+#: core/vc-extend.php:2492
+msgid "Set The Testimonial Border color."
+msgstr ""
+
+#: core/vc-extend.php:2504
+msgid "Color background section with Content"
+msgstr ""
+
+#: core/vc-extend.php:2516
+#: core/vc-extend.php:2634
+msgid "Set the Background color."
+msgstr ""
+
+#: core/vc-extend.php:2523
+#: core/vc-extend.php:2584
+msgid "Set the Section Font Color."
+msgstr ""
+
+#: core/vc-extend.php:2527
+#: core/vc-extend.php:2588
+msgid "Enable Bottom, Top, or No Arrow for the section."
+msgstr ""
+
+#: core/vc-extend.php:2535
+msgid "The section can include a bottom or top arrow with the background, it can also overlap other sections."
+msgstr ""
+
+#: core/vc-extend.php:2546
+msgid "Image Background"
+msgstr ""
+
+#: core/vc-extend.php:2548
+msgid "Image background with Content"
+msgstr ""
+
+#: core/vc-extend.php:2557
+#: core/vc-extend.php:2642
+msgid "Background Image to use"
+msgstr ""
+
+#: core/vc-extend.php:2559
+msgid "Attach a background image for this section"
+msgstr ""
+
+#: core/vc-extend.php:2563
+msgid "Choose Full Image or Repeat"
+msgstr ""
+
+#: core/vc-extend.php:2568
+msgid "Repeat"
+msgstr ""
+
+#: core/vc-extend.php:2570
+msgid "Is this a large image or small and meant to repeat."
+msgstr ""
+
+#: core/vc-extend.php:2574
+#: core/vc-extend.php:2672
+msgid "Overlay Color"
+msgstr ""
+
+#: core/vc-extend.php:2577
+msgid "Set the Overlay color."
+msgstr ""
+
+#: core/vc-extend.php:2596
+msgid "The section can include a bottom or top arrow with the background."
+msgstr ""
+
+#: core/vc-extend.php:2606
+msgid "Parallax, Fixed, Solid and Video Background"
+msgstr ""
+
+#: core/vc-extend.php:2609
+msgid "Parallax, Video, Fixed or Solid background container"
+msgstr ""
+
+#: core/vc-extend.php:2627
+msgid "Choose the type of background to use."
+msgstr ""
+
+#: core/vc-extend.php:2644
+msgid "Attach a background image for the Parallax"
+msgstr ""
+
+#: core/vc-extend.php:2654
+msgid "Attach the mp4 video.  All that matters is the URL"
+msgstr ""
+
+#: core/vc-extend.php:2664
+msgid "Attach the WEBM video (optional).  All that matters is the URL"
+msgstr ""
+
+#: core/vc-extend.php:2675
+msgid "Set the overlay color and opacity (keep the opacity low so the image comes through."
+msgstr ""
+
+#: core/vc-extend.php:2683
+#: core/vc-extend.php:2921
+msgid "Text Color"
+msgstr ""
+
+#: core/vc-extend.php:2686
+msgid "Set the Background text color."
+msgstr ""
+
+#: core/vc-extend.php:2690
+msgid "Enable Bottom Shadow"
+msgstr ""
+
+#: core/vc-extend.php:2696
+msgid "Add a section bottom shadow effect (does not apply to video).  Use solid color backgrounds if doing a colored section."
+msgstr ""
+
+#: core/vc-extend.php:2712
+msgid "Add Team Members or People to a page."
+msgstr ""
+
+#: core/vc-extend.php:2720
+msgid "The Person Post ID"
+msgstr ""
+
+#: core/vc-extend.php:2723
+msgid ""
+"The Custom Post ID for the Person (Can be found in the page edit url w\n"
+"hen creating People and looks like <b>post=1524</b>.  You just need the number."
+msgstr ""
+
+#: core/vc-extend.php:2737
+msgid "Popover container that you can add other items to display a popover"
+msgstr ""
+
+#: core/vc-extend.php:2747
+#: core/vc-extend.php:2867
+msgid "Placement"
+msgstr ""
+
+#: core/vc-extend.php:2753
+#: core/vc-extend.php:2873
+msgid "bottom"
+msgstr ""
+
+#: core/vc-extend.php:2755
+msgid "Choose where the popup will display."
+msgstr ""
+
+#: core/vc-extend.php:2762
+msgid "Set a Title for your popover if you would like."
+msgstr ""
+
+#: core/vc-extend.php:2766
+#: core/vc-extend.php:2982
+msgid "Text"
+msgstr ""
+
+#: core/vc-extend.php:2768
+msgid "Popover content text"
+msgstr ""
+
+#: core/vc-extend.php:2769
+msgid "Set the text that you want to show in the popover."
+msgstr ""
+
+#: core/vc-extend.php:2773
+msgid "Trigger"
+msgstr ""
+
+#: core/vc-extend.php:2779
+msgid "Set if you want the popover to show on hover or click."
+msgstr ""
+
+#: core/vc-extend.php:2783
+msgid "Change The Default Colors"
+msgstr ""
+
+#: core/vc-extend.php:2789
+msgid "Do you want to change the default colors?"
+msgstr ""
+
+#: core/vc-extend.php:2793
+msgid "Title Font Color"
+msgstr ""
+
+#: core/vc-extend.php:2796
+msgid "Set the Title font color."
+msgstr ""
+
+#: core/vc-extend.php:2804
+msgid "Title Background Color"
+msgstr ""
+
+#: core/vc-extend.php:2807
+msgid "Set the Title background color."
+msgstr ""
+
+#: core/vc-extend.php:2815
+msgid "Text Font Color"
+msgstr ""
+
+#: core/vc-extend.php:2818
+msgid "Set the Font color."
+msgstr ""
+
+#: core/vc-extend.php:2826
+msgid "Text Background Color"
+msgstr ""
+
+#: core/vc-extend.php:2829
+msgid "Set the Text background color."
+msgstr ""
+
+#: core/vc-extend.php:2840
+msgid "Set the Border color."
+msgstr ""
+
+#: core/vc-extend.php:2858
+msgid "Tooltip container that you can add other items to"
+msgstr ""
+
+#: core/vc-extend.php:2875
+msgid "Choose where the tooltip will display."
+msgstr ""
+
+#: core/vc-extend.php:2882
+msgid "Set a Title for your tooltip."
+msgstr ""
+
+#: core/vc-extend.php:2898
+msgid "Progress Bars to show skills, achievements etc."
+msgstr ""
+
+#: core/vc-extend.php:2914
+#: core/vc-extend.php:3032
+msgid "Bar Color"
+msgstr ""
+
+#: core/vc-extend.php:2917
+msgid "The color of the bar"
+msgstr ""
+
+#: core/vc-extend.php:2924
+msgid "The color of the text"
+msgstr ""
+
+#: core/vc-extend.php:2931
+msgid "The color of the background"
+msgstr ""
+
+#: core/vc-extend.php:2935
+msgid "Padding Space"
+msgstr ""
+
+#: core/vc-extend.php:2938
+msgid "Adjust the size of the Progress Bar"
+msgstr ""
+
+#: core/vc-extend.php:2942
+msgid "Your Text"
+msgstr ""
+
+#: core/vc-extend.php:2945
+msgid "Your Progress Text"
+msgstr ""
+
+#: core/vc-extend.php:2949
+msgid "Progress Bar percent"
+msgstr ""
+
+#: core/vc-extend.php:2952
+msgid "The percent filled of the progress bar (numeric)"
+msgstr ""
+
+#: core/vc-extend.php:2956
+msgid "Symbol"
+msgstr ""
+
+#: core/vc-extend.php:2959
+msgid "The symbol or short text after the number"
+msgstr ""
+
+#: core/vc-extend.php:2976
+msgid "Circle Charts to show stats."
+msgstr ""
+
+#: core/vc-extend.php:2984
+msgid "The main (large) Text.  Can be blank if you are using an icon."
+msgstr ""
+
+#: core/vc-extend.php:2988
+msgid "Circle Info"
+msgstr ""
+
+#: core/vc-extend.php:2990
+msgid "The small text below.  Can be blank if you want."
+msgstr ""
+
+#: core/vc-extend.php:2994
+msgid "Percent Fill"
+msgstr ""
+
+#: core/vc-extend.php:2997
+msgid "The percent of chart filled (must be numeric e.g. 75 or 78.4)"
+msgstr ""
+
+#: core/vc-extend.php:3004
+msgid "The size in pixels of the chart (must be an integer e.g. 250)"
+msgstr ""
+
+#: core/vc-extend.php:3011
+msgid "The size of the font in pixels (must be an integer e.g. 38)"
+msgstr ""
+
+#: core/vc-extend.php:3015
+msgid "Bar Width"
+msgstr ""
+
+#: core/vc-extend.php:3018
+msgid "The width of the bar (must be an integer e.g. 15)"
+msgstr ""
+
+#: core/vc-extend.php:3028
+msgid "A Half or Full circle chart"
+msgstr ""
+
+#: core/vc-extend.php:3035
+msgid "The color of the circle chart bar"
+msgstr ""
+
+#: core/vc-extend.php:3039
+msgid "Bar Background Color"
+msgstr ""
+
+#: core/vc-extend.php:3042
+msgid "The color of the bar background"
+msgstr ""
+
+#: core/vc-extend.php:3046
+msgid "Fill Color"
+msgstr ""
+
+#: core/vc-extend.php:3049
+msgid "The fill color of the chart"
+msgstr ""
+
+#: core/vc-extend.php:3116
+msgid "Modals (popups) for showing more content."
+msgstr ""
+
+#: core/vc-extend.php:3122
+msgid "Open Modal on Page Load"
+msgstr ""
+
+#: core/vc-extend.php:3128
+msgid "This will open a modal when the page opens, no button needed."
+msgstr ""
+
+#: core/vc-extend.php:3133
+msgid "Modal Title"
+msgstr ""
+
+#: core/vc-extend.php:3135
+msgid "Your Modal Title"
+msgstr ""
+
+#: core/vc-extend.php:3145
+msgid "Large or Small Modal Window"
+msgstr ""
+
+#: core/vc-extend.php:3158
+msgid "Modal Background Color"
+msgstr ""
+
+#: core/vc-extend.php:3164
+msgid "Modal Border Color"
+msgstr ""
+
+#: core/vc-extend.php:3170
+msgid "Modal Font Color"
+msgstr ""
+
+#: core/vc-extend.php:3178
+#: core/create-shortcodes.php:1697
+msgid "Open Modal"
+msgstr ""
+
+#: core/vc-extend.php:3186
+msgid "Button Color"
+msgstr ""
+
+#: core/vc-extend.php:3219
+msgid "Set a width in pixels (e.g. 5px)"
+msgstr ""
+
+#: core/vc-extend.php:3230
+msgid "Set a radius in pixels (e.g. 5px), 0 for square"
+msgstr ""
+
+#: core/vc-extend.php:3238
+msgid "Enter The Modal Content"
+msgstr ""
+
+#: core/vc-extend.php:3252
+msgid "Youtube and Vimeo Videos."
+msgstr ""
+
+#: core/vc-extend.php:3258
+msgid "Video Type"
+msgstr ""
+
+#: core/vc-extend.php:3266
+msgid "Vimeo or Youtube videos - just the id. Self Hosted add the full url and a poster image if wanted."
+msgstr ""
+
+#: core/vc-extend.php:3270
+msgid "Video ID"
+msgstr ""
+
+#: core/vc-extend.php:3272
+msgid "ID of video (found in the video url)"
+msgstr ""
+
+#: core/vc-extend.php:3276
+msgid "Self Hosted Poster Imagage"
+msgstr ""
+
+#: core/vc-extend.php:3278
+msgid "Poster Image for self hosted video"
+msgstr ""
+
+#: core/vc-extend.php:3293
+msgid "Add a Sitemap to your site"
+msgstr ""
+
+#: core/vc-extend.php:3301
+msgid "Select if you want pages to show or not"
+msgstr ""
+
+#: core/vc-extend.php:3311
+msgid "Select if you want posts to show or not"
+msgstr ""
+
+#: core/vc-extend.php:3321
+msgid "Select if you want custom posts to show or not"
+msgstr ""
+
+#: core/vc-extend.php:3331
+msgid "Displays a dropdown that users can change views of Pages and Posts."
+msgstr ""
+
+#: core/vc-extend.php:3339
+msgid "Default Pages View"
+msgstr ""
+
+#: core/vc-extend.php:3341
+msgid "Select the default view for Pages"
+msgstr ""
+
+#: core/vc-extend.php:3350
+msgid "Default Posts View"
+msgstr ""
+
+#: core/vc-extend.php:3352
+msgid "Select the default view for Posts"
+msgstr ""
+
+#: core/vc-extend.php:3362
+msgid "Exclude Posts and Pages by ID"
+msgstr ""
+
+#: core/vc-extend.php:3364
+msgid "Comma seperated list of ids to exclude (e.g. 10,121,159)"
+msgstr ""
+
+#: core/vc-extend.php:3379
+msgid "Social Icon"
+msgstr ""
+
+#: core/vc-extend.php:3381
+msgid "Insert Social Icons"
+msgstr ""
+
+#: core/vc-extend.php:3430
+msgid "Insert the social link (e.g. http://www.example.com)"
+msgstr ""
+
+#: core/vc-extend.php:3440
+msgid "Have the target open in a new window or the existing one."
+msgstr ""
+
+#: core/vc-extend.php:3452
+msgid "Choose the size of the icon."
+msgstr ""
+
+#: core/vc-extend.php:3459
+msgid "The Title for hovering (leave blank if you don't want one)."
+msgstr ""
+
+#: core/vc-extend.php:3471
+msgid "Select the placement of the title."
+msgstr ""
+
+#: core/vc-extend.php:3478
+msgid "True - Icon with background"
+msgstr ""
+
+#: core/vc-extend.php:3479
+msgid "False - Icon only"
+msgstr ""
+
+#: core/vc-extend.php:3481
+msgid "Select if you would like a background or none."
+msgstr ""
+
+#: core/vc-extend.php:3485
+msgid "The Font Color"
+msgstr ""
+
+#: core/vc-extend.php:3493
+#, php-format
+msgid "The border radius for the icon (0px = no radius, 2px default, 50% circle."
+msgstr ""
+
+#: core/vc-extend.php:3502
+msgid "The Background Color"
+msgstr ""
+
+#: core/vc-extend.php:3519
+msgid "Soundcloud tracks"
+msgstr ""
+
+#: core/vc-extend.php:3528
+msgid "Insert the SoundCloud clip url"
+msgstr ""
+
+#: core/vc-extend.php:3532
+msgid "Auto Play"
+msgstr ""
+
+#: core/vc-extend.php:3538
+msgid "Have a clip automatically play on page load"
+msgstr ""
+
+#: core/vc-extend.php:3548
+msgid "Show the comments with the sound clip."
+msgstr ""
+
+#: core/vc-extend.php:3555
+msgid "Customize the color of the play button and sound grid."
+msgstr ""
+
+#: core/vc-extend.php:3564
+msgid "Google Doc"
+msgstr ""
+
+#: core/vc-extend.php:3566
+msgid "Google Documents"
+msgstr ""
+
+#: core/vc-extend.php:3572
+msgid "Document Link"
+msgstr ""
+
+#: core/vc-extend.php:3575
+msgid "Insert the link to your document"
+msgstr ""
+
+#: core/vc-extend.php:3582
+msgid "Integer - set a height for the document (e.g. 400)"
+msgstr ""
+
+#: core/vc-extend.php:3592
+msgid "Seamless enable = hide header bar, disable = show header bar."
+msgstr ""
+
+#: core/vc-extend.php:3614
+msgid "Create a Google Map"
+msgstr ""
+
+#: core/vc-extend.php:3623
+msgid "Address"
+msgstr ""
+
+#: core/vc-extend.php:3626
+msgid "Put the full address of the location (it will be geocoded for you)"
+msgstr ""
+
+#: core/vc-extend.php:3630
+msgid "Unique Map"
+msgstr ""
+
+#: core/vc-extend.php:3633
+msgid "Generated id for the map, this needs to be unique per map."
+msgstr ""
+
+#: core/vc-extend.php:3637
+msgid "Add Border"
+msgstr ""
+
+#: core/vc-extend.php:3640
+msgid "False - No Border"
+msgstr ""
+
+#: core/vc-extend.php:3641
+msgid "True - Add a Border to the Map"
+msgstr ""
+
+#: core/vc-extend.php:3643
+msgid "Give the map a nice border around it"
+msgstr ""
+
+#: core/vc-extend.php:3647
+msgid "Full Width Map"
+msgstr ""
+
+#: core/vc-extend.php:3650
+msgid "False - Set the width"
+msgstr ""
+
+#: core/vc-extend.php:3651
+msgid "True - Map extends Full page width"
+msgstr ""
+
+#: core/vc-extend.php:3653
+msgid "Have the Map extend full page width or set the width"
+msgstr ""
+
+#: core/vc-extend.php:3660
+msgid "Set the height of the map, pixels or percent but pixels are typical (e.g. 350px)"
+msgstr ""
+
+#: core/vc-extend.php:3664
+msgid "Width"
+msgstr ""
+
+#: core/vc-extend.php:3667
+msgid "Set the Width of the map, pixels or percent (e.g. 500px or 100%)"
+msgstr ""
+
+#: core/vc-extend.php:3675
+msgid "Map zoom level"
+msgstr ""
+
+#: core/vc-extend.php:3678
+msgid "Set the map zoom level"
+msgstr ""
+
+#: core/vc-extend.php:3688
+msgid "Set to allow users to change zoom level"
+msgstr ""
+
+#: core/vc-extend.php:3698
+msgid "Set to allow users to change panning"
+msgstr ""
+
+#: core/vc-extend.php:3708
+msgid "Set to allow users to change map type"
+msgstr ""
+
+#: core/vc-extend.php:3712
+msgid "Enable Scroll Wheel"
+msgstr ""
+
+#: core/vc-extend.php:3718
+msgid "Set to allow users to zoom with mouse wheel"
+msgstr ""
+
+#: core/vc-extend.php:3730
+msgid "Choose the type of map you want"
+msgstr ""
+
+#: core/vc-extend.php:3734
+msgid "Map Marker"
+msgstr ""
+
+#: core/vc-extend.php:3736
+msgid "Attach a marker (or leave blank for default google marker"
+msgstr ""
+
+#: core/vc-extend.php:3746
+msgid "Use the default map colors or choose your own.  This will not change all maps (e.g. satellite)"
+msgstr ""
+
+#: core/vc-extend.php:3750
+msgid "Map Color"
+msgstr ""
+
+#: core/vc-extend.php:3753
+msgid "Set the color for the map"
+msgstr ""
+
+#: core/vc-extend.php:3761
+msgid "Map Color Saturation"
+msgstr ""
+
+#: core/vc-extend.php:3764
+#: core/vc-extend.php:3775
+msgid "Values between -100 to 100, 0 is default"
+msgstr ""
+
+#: core/vc-extend.php:3772
+msgid "Map Color Lightness"
+msgstr ""
+
+#: core/vc-extend.php:3783
+msgid "Infobox Content"
+msgstr ""
+
+#: core/vc-extend.php:3785
+msgid "Infobox content, leave blank for no infobox"
+msgstr ""
+
+#: core/vc-extend.php:3789
+msgid "Infobox Background Color"
+msgstr ""
+
+#: core/vc-extend.php:3792
+msgid "Set the color for your infobox background color (affects all infoboxes in this map)"
+msgstr ""
+
+#: core/vc-extend.php:3796
+msgid "Infobox Text Color"
+msgstr ""
+
+#: core/vc-extend.php:3799
+msgid "Set the text color for infoboxes (affects all infoboxes in this map)"
+msgstr ""
+
+#: core/vc-extend.php:3806
+msgid "Google Map Point"
+msgstr ""
+
+#: core/vc-extend.php:3814
+msgid "Full address"
+msgstr ""
+
+#: core/vc-extend.php:3817
+msgid "Full address, we will take care of the geocoding (latitude/longitude)"
+msgstr ""
+
+#: core/vc-extend.php:3821
+msgid "Select Marker"
+msgstr ""
+
+#: core/vc-extend.php:3823
+msgid "Set a marker of your choosing or leave blank for Google default"
+msgstr ""
+
+#: core/vc-extend.php:3827
+msgid "Infobox content"
+msgstr ""
+
+#: core/vc-extend.php:3829
+msgid "Set infobox content, leave blank for none"
+msgstr ""
+
+#: core/vc-extend.php:3845
+msgid "An easy to use contact form"
+msgstr ""
+
+#: core/vc-extend.php:3854
+msgid "Set your name field text"
+msgstr ""
+
+#: core/vc-extend.php:3861
+msgid "Set your email field text"
+msgstr ""
+
+#: core/vc-extend.php:3868
+msgid "Set your message field text"
+msgstr ""
+
+#: core/vc-extend.php:3875
+msgid "Set Your Input Field Text Color"
+msgstr ""
+
+#: core/vc-extend.php:3882
+msgid "Set Your Input Field Background Color"
+msgstr ""
+
+#: core/vc-extend.php:3889
+msgid "Set Your Input Field Border Color"
+msgstr ""
+
+#: core/vc-extend.php:3895
+msgid "Submit"
+msgstr ""
+
+#: core/vc-extend.php:3896
+msgid "Set the button text"
+msgstr ""
+
+#: core/vc-extend.php:3903
+msgid "Set the background color of your button"
+msgstr ""
+
+#: core/vc-extend.php:3910
+msgid "Set your text color of the button"
+msgstr ""
+
+#: core/vc-extend.php:3917
+msgid "Set the border color of your button"
+msgstr ""
+
+#: core/vc-extend.php:3924
+msgid "Set the border width (0px = no border"
+msgstr ""
+
+#: core/vc-extend.php:3928
+msgid "Input and Button Radius"
+msgstr ""
+
+#: core/vc-extend.php:3931
+msgid "Set the border radius for form elements (0px = square"
+msgstr ""
+
+#: core/vc-extend.php:3935
+msgid "Send to other email"
+msgstr ""
+
+#: core/vc-extend.php:3938
+msgid "Leave blank unless you want this form to go to an email address other than the admin email"
+msgstr ""
+
+#: core/register-custom-posts.php:18
+msgid "Portfolio Item"
+msgstr ""
+
+#: core/register-custom-posts.php:19
+msgid "Portfolio Entries"
+msgstr ""
+
+#: core/register-custom-posts.php:20
+msgid "Add new"
+msgstr ""
+
+#: core/register-custom-posts.php:21
+msgid "Add New Portfolio Entry"
+msgstr ""
+
+#: core/register-custom-posts.php:22
+msgid "Edit Portfolio Entry"
+msgstr ""
+
+#: core/register-custom-posts.php:23
+msgid "New Portfolio Entry"
+msgstr ""
+
+#: core/register-custom-posts.php:24
+msgid "View Portfolio Entry"
+msgstr ""
+
+#: core/register-custom-posts.php:25
+msgid "Search Portfolio"
+msgstr ""
+
+#: core/register-custom-posts.php:26
+msgid "No Portfolio Entries Found"
+msgstr ""
+
+#: core/register-custom-posts.php:27
+msgid "No Portfolio Entries found in Trash"
+msgstr ""
+
+#: core/register-custom-posts.php:53
+msgid "Portfolio Category"
+msgstr ""
+
+#: core/register-custom-posts.php:64
+msgid "Add New"
+msgstr ""
+
+#: core/register-custom-posts.php:65
+msgid "Add New Person"
+msgstr ""
+
+#: core/register-custom-posts.php:66
+msgid "Edit Person"
+msgstr ""
+
+#: core/register-custom-posts.php:67
+msgid "New Person"
+msgstr ""
+
+#: core/register-custom-posts.php:68
+msgid "View Persons"
+msgstr ""
+
+#: core/register-custom-posts.php:69
+msgid "Search Persons"
+msgstr ""
+
+#: core/register-custom-posts.php:70
+msgid "No People found"
+msgstr ""
+
+#: core/register-custom-posts.php:71
+msgid "No People found in trash"
+msgstr ""
+
+#: core/register-custom-posts.php:95
+msgid "People Category"
+msgstr ""
+
+#: core/sh-animations.php:7
+msgid "Bounce"
+msgstr ""
+
+#: core/sh-animations.php:8
+msgid "Flash"
+msgstr ""
+
+#: core/sh-animations.php:9
+msgid "Pulse"
+msgstr ""
+
+#: core/sh-animations.php:10
+msgid "Rubberband"
+msgstr ""
+
+#: core/sh-animations.php:11
+msgid "Shake"
+msgstr ""
+
+#: core/sh-animations.php:12
+msgid "Swing"
+msgstr ""
+
+#: core/sh-animations.php:13
+msgid "Tada"
+msgstr ""
+
+#: core/sh-animations.php:14
+msgid "Wobble"
+msgstr ""
+
+#: core/sh-animations.php:15
+msgid "Bounce In"
+msgstr ""
+
+#: core/sh-animations.php:16
+msgid "Bounce In Down"
+msgstr ""
+
+#: core/sh-animations.php:17
+msgid "Bounce In Left"
+msgstr ""
+
+#: core/sh-animations.php:18
+msgid "Bounce In Right"
+msgstr ""
+
+#: core/sh-animations.php:19
+msgid "Bounce In Up"
+msgstr ""
+
+#: core/sh-animations.php:20
+msgid "Fade In"
+msgstr ""
+
+#: core/sh-animations.php:21
+msgid "Fade In Down"
+msgstr ""
+
+#: core/sh-animations.php:22
+msgid "Fade In Down Big"
+msgstr ""
+
+#: core/sh-animations.php:23
+msgid "Fade In Left"
+msgstr ""
+
+#: core/sh-animations.php:24
+msgid "Fade In Left Big"
+msgstr ""
+
+#: core/sh-animations.php:25
+msgid "Fade In Right"
+msgstr ""
+
+#: core/sh-animations.php:26
+msgid "Fade In Right Big"
+msgstr ""
+
+#: core/sh-animations.php:27
+msgid "Fade In Up"
+msgstr ""
+
+#: core/sh-animations.php:28
+msgid "Fade In Up Big"
+msgstr ""
+
+#: core/sh-animations.php:29
+msgid "Flip"
+msgstr ""
+
+#: core/sh-animations.php:30
+msgid "Flip In X"
+msgstr ""
+
+#: core/sh-animations.php:31
+msgid "Flip In Y"
+msgstr ""
+
+#: core/sh-animations.php:32
+msgid "Lightspeed In"
+msgstr ""
+
+#: core/sh-animations.php:33
+msgid "Rotate In"
+msgstr ""
+
+#: core/sh-animations.php:34
+msgid "Rotate In Down Left"
+msgstr ""
+
+#: core/sh-animations.php:35
+msgid "Rotate In Down Right"
+msgstr ""
+
+#: core/sh-animations.php:36
+msgid "Rotate In Up Left"
+msgstr ""
+
+#: core/sh-animations.php:37
+msgid "Rotate In Up Right"
+msgstr ""
+
+#: core/sh-animations.php:38
+msgid "Hinge"
+msgstr ""
+
+#: core/sh-animations.php:39
+msgid "Roll In"
+msgstr ""
+
+#: core/sh-animations.php:40
+msgid "Zoom In"
+msgstr ""
+
+#: core/sh-animations.php:41
+msgid "Zoom In Down"
+msgstr ""
+
+#: core/sh-animations.php:42
+msgid "Zoom In Left"
+msgstr ""
+
+#: core/sh-animations.php:43
+msgid "Zoom In Right"
+msgstr ""
+
+#: core/sh-animations.php:44
+msgid "Zoom In Up"
+msgstr ""
+
+#: core/create-shortcodes.php:1518
+#: core/create-shortcodes.php:1544
+msgid "Days"
+msgstr ""
+
+#: core/create-shortcodes.php:1523
+#: core/create-shortcodes.php:1548
+msgid "Hours"
+msgstr ""
+
+#: core/create-shortcodes.php:1528
+#: core/create-shortcodes.php:1552
+msgid "Minutes"
+msgstr ""
+
+#: core/create-shortcodes.php:1533
+#: core/create-shortcodes.php:1556
+msgid "Seconds"
+msgstr ""
+
+#: core/create-shortcodes.php:1582
+msgid "Return to Top"
+msgstr ""
+
+#: core/create-shortcodes.php:1995
+msgid "Full Profile"
+msgstr ""
+
+#: core/create-shortcodes.php:2522
+msgid "Pages"
+msgstr ""
+
+#: core/create-shortcodes.php:2526
+msgid "Show Pages by "
+msgstr ""
+
+#: core/create-shortcodes.php:2578
+msgid "Posts"
+msgstr ""
+
+#: core/create-shortcodes.php:2581
+msgid "Show Posts By"
+msgstr ""
+
+#: core/create-shortcodes.php:2593
+msgid "Tags"
+msgstr ""
+
+#: core/create-shortcodes.php:2959
+msgid "Email"
+msgstr ""
+
+#: core/create-shortcodes.php:2964
+msgid "Send us a message"
+msgstr ""
+
+#: core/sh-styles.php:110
+msgid "Please enter your Name"
+msgstr ""
+
+#: core/sh-styles.php:114
+msgid "Please enter your Email"
+msgstr ""
+
+#: core/sh-styles.php:118
+msgid "Please enter your Message"
+msgstr ""
+
+#: core/sh-styles.php:121
+msgid "You entered an <span class=\"error-text\">invalid</span> email address."
+msgstr ""
+
+#: core/sh-styles.php:129
+msgid "Website Contact From "
+msgstr ""
+
+#: core/sh-styles.php:130
+msgid "Name: "
+msgstr ""
+
+#: core/sh-styles.php:130
+msgid "Email: "
+msgstr ""
+
+#: core/sh-styles.php:131
+msgid "Message: "
+msgstr ""
+
+#: core/sh-styles.php:137
+msgid "Your message has been sent, Thank you!"
+msgstr ""
+

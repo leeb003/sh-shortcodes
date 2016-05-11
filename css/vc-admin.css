@@ -1,0 +1,48 @@
+
+/* Font Awesome select in visual composer */
+.icon-holder {
+	min-height: 200px;
+}
+.selectOptions {
+}
+
+.icon-holder span.selected {
+	width: 220px;
+	text-indent: 12px;
+}
+
+span.fa-icon:hover {
+	cursor: pointer;
+}
+
+.icon-holder input[type=checkbox] {
+	position: absolute;
+	top: -9999px;
+	left: -9999px;
+	/* Hide the checkboxes and do highlighting */
+}
+
+.icon-holder .selected-icon {
+	background-color: #4096EE;
+	color: #f6f6f6;
+}
+
+.searchCheckLive {
+	border: 1px solid rgba(0,0,0,0.15);
+}
+
+/* End Font Awesome select */
+
+/* spacing for span display items on view */
+span.wpb_vc_param_value {
+    padding: 5px;
+}
+
+/* shrink image for nested items (checklist items */
+.wpb_shvc_checklist span.vc_element-icon,
+.wpb_shvc_pricetable span.vc_element-icon,
+.wpb_shvc_table span.vc_element-icon,
+.wpb_shvc_accordion span.vc_element-icon {
+	width: 16px;
+	height: 16px;
+}
